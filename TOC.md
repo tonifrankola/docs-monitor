@@ -3,8 +3,6 @@ title: Table of Contents
 private: true
 ---
 
-# [Product Updates](product-updates.md)
-Check out the new SPDocKit version delights. See the changes in the latest version and upgrade. 
 # [FAQ](faq.md)
 what is this
 # [Requirements](requirements.md)
