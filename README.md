@@ -23,7 +23,7 @@ You can add any metadata you need in header block of every MD file.
 Example:  
     ---  
     title: Quick Start Guide  
-    description: short SEo description of an article
+    description: short SEo description of an article  
     author: Some Person  
     date: 21/2/2017  
     ---  
