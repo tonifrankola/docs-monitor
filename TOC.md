@@ -10,4 +10,6 @@ Make sure that your environment and the account used for the application meet SP
 # [Installation and Configuration](installation-configuration.md)
 Learn how to install SPDocKit or update it to the latest version. 
 # [Editions](editions.md)
-Activate your fully featured version and explore all the amazing reports. 
+Activate your fully featured version and explore all the amazing reports.
+# [Activation](activation.md)
+Activate your fully featured version and explore all the amazing reports.
