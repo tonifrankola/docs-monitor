@@ -1,6 +1,6 @@
 ---
 title: Editions
-description: This article outlines the steps needed to perform online or offline product activation.
+description: This article outlines frequently asked questions regarding the SysKit activation.
 author: Andrea Budisa
 date: 24/5/2017
 ---
