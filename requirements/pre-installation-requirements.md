@@ -11,7 +11,7 @@ The installation process consists of a few easy steps that you need to perform i
 SysKit Monitor requires a service account in order to run. We recommend creating a dedicated Windows account for this purpose.
 
 + This account needs to have administrative privileges on each server you plan to monitor. You can configure this [manually](#internal/) or via [Group Policy](#internal/).
-This account needs to have the __Logon as a service__ privileges.
++ This account needs to have the [Logon as a service](#internal/) privileges.
 
 > Please note! As a best practice, we recommend setting a service user that is in the Adminstrators or Domain Admins group.
 
