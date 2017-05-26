@@ -56,8 +56,7 @@ User database files are stored where the user designates, typically somewhere in
 
 Proceed to: [User Permission Requirements](#internal/requirements/user-permission-requirements).
 
-## Supported technologies and platforms 
-___
+## Supported technologies and platforms
 
 SysKit Monitor supports monitoring of the technologies and platforms listed below.
 + __Remote Desktop Services__
