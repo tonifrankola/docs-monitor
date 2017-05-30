@@ -2,7 +2,7 @@
 title: User Permission Requirements
 desription: This article discusses the necessary Service Account you need in order to run the SysKit Monitor in various environments and describes deployment scenarios that affect account requirements.
 author: Andrea Budisa
-date: 23/5/2017
+date: 26/5/2017
 ---
 Please read this article before choosing your service account.
 
@@ -34,4 +34,4 @@ If you plan to use Windows authentication, we recommend using our Configuration 
 
 See [SQL Permissions](#internal/) to learn more about SysKit SQL server database requirements.   
 See [Configure](#internal/) article to learn more on how to change the Service Account or SysKit database.   
-Proceed to: [Pre-installation Requirements](#internal/requirements/pre-installation-requirements).
+Proceed to: [Pre-Installation Requirements](#internal/requirements/pre-installation-requirements).
