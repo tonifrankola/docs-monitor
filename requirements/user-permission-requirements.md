@@ -30,7 +30,7 @@ There are two ways to add a service user to the Local Administrators security gr
 + You can use the Windows Authentication to access the database – the service user will be used for authentication on the SQL Server (recommended).
 + SQL Server Authentication should be used only when Windows Authentication is not possible. This scenario is supported through the SysKit Monitor Configuration Wizard.
 
-If you plan to use Windows authentication, we recommend using our Configuration Wizard to create and configure the SysKit database. The Active Directory (Windows service) user running the configuration wizard needs to have __dbcreator__ and __securityadmin__ privileges on the SQL Server to create and configure the database.
+If you plan to use Windows authentication, we recommend using our Configuration Wizard to create and configure the SysKit Monitor database. The Active Directory (Windows service) user running the configuration wizard needs to have __dbcreator__ and __securityadmin__ privileges on the SQL Server to create and configure the database.
 
 See [SQL Permissions](#internal/) to learn more about SysKit SQL server database requirements.   
 See [Configure](#internal/) article to learn more on how to change the Service Account or SysKit database.   
