@@ -77,7 +77,7 @@ Use the __Date Range filter__ to set date boundaries on your performance data. Y
 
 #### Reports Ribbon
 
-Depending on whether the report type is real-time or history, you will have a different set of options available. Use the reports ribbon to take the following actions:
+Depending on whether the report type is real-time or history, you will have a different set of options and filters available. Use the reports ribbon to take the following actions:
 
 + __Export__ – Save the current report to PDF, Excel, HTML, or CSV files.
 + __Subscription Manager__ – Create, edit, and send subscriptions that contain reports and views. Subscriptions can be delivered to email, SharePoint, and FileShare. 
