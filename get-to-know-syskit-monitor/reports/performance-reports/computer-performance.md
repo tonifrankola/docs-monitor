@@ -9,7 +9,8 @@ This report category also includes the [Performance Dashboard](#internal/get-to-
 ## Overview
 
 The __Overview__ report gives more detailed information for the selected computer. Values and charts in the Overview report are updated __every 60 seconds__.
-The charts display a performance overview for the __last 15 minutes__, while the value next to a chart is in __real time__. The Overview report gives you more detailed information about all Hard Drives and Network Adapters on your computer. Performance Counters available on this report are similar to those in the previously mentioned Dashboard with the addition of __Computer Info__ and __Top 5 processes__ categories.
+The charts display a performance overview for the __last 15 minutes__, while the value next to a chart is in __real time__. The Overview report gives you more detailed information about all Hard Drives and Network Adapters on your computer. Performance Counters available on this report are similar to those in the previously mentioned Dashboard with the addition of __Computer Info__ and __Top 5 processes__ categories.  
+This report allows you to open a Remote Desktop connection to the selected computer.
 
 The __Top 5 processes__ category displays CPU and Memory consumption charts for the top five Windows processes according to CPU usage. This category will quickly show you which processes are consuming the most CPU time on the selected computer. It also displays process performance counters:  
 __IO Operations/sec__ and the __total IOs/sec__ (IO Read and Write KB/sec).
@@ -82,7 +83,48 @@ Depending on whether the report type is real-time or history, you will have a di
 + __Export__ – Save the current report to PDF, Excel, HTML, or CSV files.
 + __Subscription Manager__ – Create, edit, and send subscriptions that contain reports and views. Subscriptions can be delivered to email, SharePoint, and FileShare. 
 + __Schedule This Report__ – Schedule the current report or view to email, SharePoint, or FileShare.
-+ __Save As View__ – Each report can have different Filters applied – Computers, Disks, Disk Counters, Network Adapters, or Network Counters. To create a View, click on the Save As View button on the ribbon, enter the view name, choose the view type and visibility, and click on Save. Afterwards, you can __adjust the filters__ on the newly created view, and save the changes by clicking the __Save View Changes__ button on the ribbon.
++ __Save As View__ – Each of the reports in this group can have different filters applied – Computers, Disks, Disk Counters, Network Adapters, or Network Counters. To create a View, click on the Save As View button on the ribbon, enter the view name, choose the view type and visibility, and click on Save. Afterwards, you can __adjust the filters__ on the newly created view, and save the changes by clicking the __Save View Changes__ button on the ribbon.
 + __Drill To Applications__ – Easily drill down from the reports to Application Performance – History by clicking the Drill To Applications button on the ribbon.
 + __Refresh__ – Refresh items in the left navigation panel, filters, and the main view.
 + __Options__ – Allows configuration of options for Report and Dashboard data, Alerts, Export and System Jobs.
+
+## Detailed Analysis
+
+The __Detailed Analysis__ report displays the history data for monitored __custom performance counters__, which are assigned to computers through the Monitoring Templates. It consists of charts that display detailed statistics for the selected Custom performance metrics, Date Range, and Computers.
+
+You can choose up to __10 different performance counters to display__ simultaneously for one or more computers. This allows you to select specific performance counters on multiple computers and show them in one chart to easily compare their performance. In addition, you can choose multiple performance counters for one computer and identify problems causing performance issues on that computer.
+
+Here are some __tricks__ that will help you use this report more efficiently:
+
++ Hovering over chart will display a specific tooltip for the selected series. The tooltip displays details about the data point the mouse is currently hovering over, such as the computer name, date and time values, and value of the data point.
++ Use the mouse wheel to zoom in and out to view the chart data with maximum precision.
++ When displaying data for multiple computers on one chart, click on a specific series to get detailed info about its values (e.g., last, minimum, maximum and average values).
++ Use the Date Range and performance counters filters to refine results and quickly navigate to the desired data.
+
+Every chart, i.e. performance counters, in this report has __threshold lines with color ranges__. This makes them very useful in the initial step to identify performance bottlenecks and for further detailed analysis. When you click on a specific __chart series__, assuming the data for multiple computers is displayed, the associated __warning__ and __critical thresholds__ will be shown. The specified warning and critical thresholds are now visualized. These data are retrieved from the Monitoring Templates that are applied to computers and can be explored or __re-configured__ on the Administration > Monitoring Templates.
+
+The __performance counters filter__ is a brand-new filter that is only available on the Detailed Analysis report. It consists of __three components__: a search bar, four status filters, and a server/performance counter/instance tree.
+
+Each of the available components can be selected and shown separately or combined with the other components. By checking a specific performance counter or instance in the tree filter, a chart will appear showing the values for that counter or instance.
+
+The performance counters filter is designed to be a heritable tree structure. Checking the parent node will automatically check and display all the child nodes.  
+The maximum number of different counters that can be displayed at the same time is 10. If the same performance counter is selected on multiple computers, all the values will be displayed on the same chart.
+
+You can use the search bar to filter computers and performance counter components (e.g., categories, counters, and instances) by their names. Checking or unchecking a specific performance counter status in the status filter will display or hide all the counters and instances that correspond to that status.
+
+> __Please note!__ The Detailed Analysis report will display custom performance data only if one or more [Monitoring Templates](#internal/) has been created and assigned to specific computers or computer groups.
+
+The __tree structure status__ values on the Detailed Analysis report __change colors__ depending on the defined thresholds for the selected performance counters, which are configured through the [Monitoring Templates](#internal/) category on the __Administration__ tab.
+
+Custom performance counters can have __four different statuses__ when used to monitor computers:
+
++ __Healthy (green):__ All performance counter values are within the desired limits.
++ __Warning (yellow):__ One or more performance counter values has crossed the defined warning threshold.
++ __Critical (red):__ One or more performance counter values has crossed the defined critical threshold.
++ __Missing (gray):__ No performance counters can be found in the category.
+
+If data collection is still in progress or if no performance counters can be found on monitored computers that have one or more Monitoring Templates assigned, they will be __grayed out__ and shown as __Missing__.
+
+## Alert Overview
+
+The __Alert Overview__ report displays all critical and warning alerts generated within the selected Date Range. It will help you get a clear overview of all the alerts raised in your environment.
