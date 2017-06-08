@@ -1,13 +1,13 @@
 ---
 private: true
 ---
-# SysKit
+# SysKit Monitor
 
-SysKit enables users to monitor and administer their entire server environment. It’s an agentless enterprise solution which helps users monitor server performance, track user activity, analyze application usage, document environment, and more. 
+SysKit MOnitor enables users to monitor and administer their entire server environment. It’s an agentless enterprise solution which helps users monitor server performance, track user activity, analyze application usage, document environment, and more. 
 
 Additionally, it enables users to manage servers remotely with the help of PowerShell, serving as GUI for PowerShell reporting with advanced possibilities. SysKit comes with a quick installation containing built-in prerequisites, and it’s available as a desktop and web interface.
 
-## SysKit Features
+## SysKit Monitor Features
 * Track user activity and RDS logging on your servers
 * Analyze application usage for locally used and published applications
 * Monitor all existing services and performance counters and in real-time and historically
