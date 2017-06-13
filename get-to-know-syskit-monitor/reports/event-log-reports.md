@@ -51,6 +51,6 @@ After every Event Log system job run, each IP address that had more than or exac
 
 > __Please note!__ If you are having problem seeing this report check if you have properly [configured SysKit Monitor server](#internal/) to support this feature.
 
-See [How to Enable Folder Auditing](#internal/) to learn more.
-See [How to Configure Audit Logon Events](#internal/) to learn more.
+See [How to Enable Folder Auditing](#internal/) to learn more.  
+See [How to Configure Audit Logon Events](#internal/) to learn more.  
 See [How to Configure Server to support Block Malicous IP Addresses feature](#internal/) to learn more.
