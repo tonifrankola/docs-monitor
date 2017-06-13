@@ -45,7 +45,7 @@ The __second__ option enables you to compare inventory data on different compute
 
 > __Tip!__ This option can be useful when you want to determine whether different computers have the same configurations or when you want to check if test and production environment are configured correctly.
 
-### Inventory Snapshots
+#### Inventory Snapshots
 
 1. In Step 1, simply select the compare type, which in this case is the __Inventory Snapshots__, as you want to compare two different inventory snapshots and detect any inventory changes.
 
@@ -74,7 +74,7 @@ __Report data (entry) level__
 + Missing in source/target – indicates missing entries in source or target snapshot.
 + Different row/cell – indicates differences in any of the rows and cells.
 
-### Computers
+#### Computers
 
 1. In Step 1, simply select the compare type, which in this case is the __Computers__ option, as you want to compare the differences between two computers and detect inventory changes.
 
