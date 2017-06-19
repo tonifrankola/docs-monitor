@@ -1,0 +1,44 @@
+---
+title: How To
+slug: how-to
+private: true
+---
+
+# Dashboards
+## [Create Custom Dashboard](create-custom-dashboard.md)
+## [Edit Dashboards](edit-dashboards.md)
+## [Add Formatting Condition to Metrics](add-formatting-condition-to-metrics.md)
+
+# Reports
+## [Export Report to Excel](export-report-to-excel.md)
+## [Configure Cost Overview Report](configure-cost-overview-report.md)
+## [Configure Report Subscriptions](configure-report-subcriptions.md)
+## [Create Customized Report Views](create-customized-report-views.md)
+
+# Custom Reports
+## [Create Custom Report](create-custom-report.md)
+## [Create SQL Custom Report](create-sql-custom-report.md)
+## [Create Alert](create-alert.md)
+
+# PowerShell Scripts
+## [Import and Use PowerShell Script Modules](import-and-use-powershell-script-modules.md)
+
+# Users
+## [Add Users Manually](add-users-manually.md)
+## [Add Users From Active Directory](add-users-from-active-directory.md)
+## [Manage Security Permissions](manage-security-permissions.md)
+
+# Computers
+## [Add/Remove or Delete Computer from Monitoring](add-remove-or-delete-computer.md)
+
+# Service Accounts
+## [Add Service User to Local Administrators Group via Group Policy](add-service-user-group-policy.md)
+## [Add Service User to Local Administrators Group Manually](add-service-user-manually.md)
+
+# Audit Events
+
+# Citrix XenApp
+
+# [Manage Data Collector](manage-data-collector.md)
+# [Move database to new server](move-database-to-new-server.md)
+# [Exclude installation folder from antivirus scanning](exclude-installation-folder-from-antivirus-scanning.md)
