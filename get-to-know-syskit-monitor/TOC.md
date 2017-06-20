@@ -33,7 +33,7 @@ private: true
 
 
 # [Administration](administration.md)
-## [Computers and Groups](computers-and-groups.md)
+## [Computers and Groups](servers-and-groups.md)
 ## Monitoring Templates
 ### [Predefined Monitoring Templates](predefined-monitoring-templates.md)
 ## [PowerShell Scrips](powershell-scripts.md)
