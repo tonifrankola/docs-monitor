@@ -31,10 +31,9 @@ private: true
 
 ## [Custom Reports](custom-reports.md)
 
-
 # [Administration](administration.md)
 ## [Computers and Groups](servers-and-groups.md)
-## Monitoring Templates
+## [Monitoring Templates](monitoring-templates.md)
 ### [Predefined Monitoring Templates](predefined-monitoring-templates.md)
 ## [PowerShell Scrips](powershell-scripts.md)
 
