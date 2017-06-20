@@ -36,8 +36,16 @@ private: true
 ## [Add Service User to Local Administrators Group Manually](add-service-user-manually.md)
 
 # Audit Events
+## [Enable Folder Auditing](enable-folder-auditing.md)
+## [Configure Audit Logon Events](configure-audit-logon-events.md)
+## [Configure SysKit Server for Block Malicious IP Addresses feature](configure-block-malicious-ip-addresses-feature.md)
 
 # Citrix XenApp
+
+## [Allow Remote RPC on XenDesktop machines](allow-remote-rpc-on-xenapp.md)
+## [Monitor Citrix Published Applications](monitor-citrix-published-applications.md)
+## [Configure SysKit for Citrix XenApp 5 Published Application monitoring](monitor-citrix-xenapp5-published-applications.md)
+## [Configure SysKit for Citrix XenApp 6.0/6.5 Published Application monitoring](monitor-citrix-xenapp6-published-applications.md)
 
 # [Manage Data Collector](manage-data-collector.md)
 # [Move database to new server](move-database-to-new-server.md)
