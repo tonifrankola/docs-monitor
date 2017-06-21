@@ -21,7 +21,10 @@ private: true
 ## [Create Alert](create-alert.md)
 
 # PowerShell Scripts
-## [Import and Use PowerShell Script Modules](import-and-use-powershell-script-modules.md)
+## [PowerShell Wizard](powershell-wizard.md)
+## [Import and Use PowerShell Script Modules](import-and-use-ps-script-modules.md)
+## [Import / Export PowerShell Scripts](import-ps-scripts.md)
+## [Download Scripts](download-scripts.md)
 
 # Users
 ## [Add Users Manually](add-users-manually.md)
@@ -30,6 +33,12 @@ private: true
 
 # Computers
 ## [Add/Remove or Delete Computer from Monitoring](add-remove-or-delete-computer.md)
+
+# Monitoring Templates
+## [Predefined Monitoring Templates](predefined-templates.md)
+## [Template Wizard](template-wizard.md)
+## [Import / Export Monitoring Template](import-export-template.md)
+## [Download Templates](download-templates.md)
 
 # Service Accounts
 ## [Add Service User to Local Administrators Group via Group Policy](add-service-user-group-policy.md)
