@@ -20,12 +20,6 @@ private: true
 ## [Create SQL Custom Report](create-sql-custom-report.md)
 ## [Create Alert](create-alert.md)
 
-# PowerShell Scripts
-## [PowerShell Wizard](powershell-wizard.md)
-## [Import and Use PowerShell Script Modules](import-and-use-ps-script-modules.md)
-## [Import / Export PowerShell Scripts](import-ps-scripts.md)
-## [Download Scripts](download-scripts.md)
-
 # Users
 ## [Add Users Manually](add-users-manually.md)
 ## [Add Users From Active Directory](add-users-from-active-directory.md)
@@ -40,6 +34,12 @@ private: true
 ## [Import / Export Monitoring Template](import-export-template.md)
 ## [Download Templates](download-templates.md)
 
+# PowerShell Scripts
+## [PowerShell Wizard](powershell-wizard.md)
+## [Import and Use PowerShell Script Modules](import-and-use-ps-script-modules.md)
+## [Import / Export PowerShell Script](import-ps-script.md)
+## [Download Scripts](download-scripts.md)
+
 # Service Accounts
 ## [Add Service User to Local Administrators Group via Group Policy](add-service-user-group-policy.md)
 ## [Add Service User to Local Administrators Group Manually](add-service-user-manually.md)
@@ -50,7 +50,6 @@ private: true
 ## [Configure SysKit Server for Block Malicious IP Addresses feature](configure-block-malicious-ip-addresses-feature.md)
 
 # Citrix XenApp
-
 ## [Allow Remote RPC on XenDesktop machines](allow-remote-rpc-on-xenapp.md)
 ## [Monitor Citrix Published Applications](monitor-citrix-published-applications.md)
 ## [Configure SysKit for Citrix XenApp 5 Published Application monitoring](monitor-citrix-xenapp5-published-applications.md)
