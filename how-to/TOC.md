@@ -36,8 +36,9 @@ private: true
 
 # PowerShell Scripts
 ## [PowerShell Wizard](powershell-wizard.md)
-## [Import and Use PowerShell Script Modules](import-and-use-ps-script-modules.md)
+## [Manage Scripts](manage-scripts.md)
 ## [Import / Export PowerShell Script](import-ps-script.md)
+## [Import and Use PowerShell Script Modules](import-and-use-ps-script-modules.md)
 ## [Download Scripts](download-scripts.md)
 
 # Service Accounts

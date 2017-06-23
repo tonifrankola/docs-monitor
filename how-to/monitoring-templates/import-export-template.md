@@ -1,5 +1,5 @@
 ---
-title: Template Wizard
+title: Import / Export Monitoring Template
 description: This article describes how to import, configure and export Monitoring Templates for the successful performance monitoring of your Windows environments.
 author: Andrea Budisa
 date: 21/6/2017

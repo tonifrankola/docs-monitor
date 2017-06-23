@@ -1,6 +1,6 @@
 ---
 title: Template Wizard
-description: This article outlines all the steps for loading custom performance counters and the successful performance monitoring of your Windows environments.
+description: This article outlines all necessary steps for loading custom performance counters and the successful performance monitoring of your Windows environments.
 author: Andrea Budisa
 date: 21/6/2017
 ---
