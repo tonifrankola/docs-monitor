@@ -11,7 +11,7 @@ Here is what you need to do:
 
 1. Double-click the users whose permissions you want to change.
 
-1. Change the ** user’s role**  in the newly opened dialog.
+1. Change the **user’s role**  in the newly opened dialog.
 
 1. Select **Viewers** or **Administrators**. Viewers can only view data, admins can administrate computers and users. Click here for a more detailed description about [User Roles](#internal/get-to-know-syskit-monitor/backstage-screen/manage-data-gathering).
 
