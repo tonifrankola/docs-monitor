@@ -28,7 +28,7 @@ Automatically determining the computer alert level can help you filter out low-p
 This tutorial will provide everything you need to know about these great features and how to use them. It will walk you through the basic concepts and challenges you may encounter.
 
 #### In the third part of the training you can learn about SysKit Monitor real-time alert feature.
-* How can I configure SysKit to send Real-Time Alerts?
+* How can I configure SysKit Monitor to send Real-Time Alerts?
 
 * How can I classify the importance of the Real-Time Alerts?
 

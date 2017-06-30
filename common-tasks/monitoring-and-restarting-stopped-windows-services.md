@@ -27,7 +27,7 @@ When a computer is added to the monitoring, SysKit Monitor collects a full list 
 
 Services that are selected as important, for a designated computer, and configured to be monitored, are displayed in the [Overview report](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance) under **Monitored Services**.
 
-Depending on the options you configure in the **Monitoring Template** which is assigned to a computer, SysKit can send you **e-mail notifications** when one or more important services are **stopped** and can perform **automatic service restarts**. It will also tell you whether it has been successful or not.
+Depending on the options you configure in the **Monitoring Template** which is assigned to a computer, SysKit Monitor can send you **e-mail notifications** when one or more important services are **stopped** and can perform **automatic service restarts**. It will also tell you whether it has been successful or not.
 
 See [Real-time Alerting](#internal/common-tasks/real-time-alerting) to learn more about SysKit Monitor real-time alerts.
 
