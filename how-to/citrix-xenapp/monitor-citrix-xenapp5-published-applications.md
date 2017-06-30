@@ -8,12 +8,12 @@ In order for monitoring to be successful these are the steps you will have to pe
 
 ### Install Citrix XenApp 5.0 SDK
 
-1. [Download the SDK](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications) from Citrix web site. __Please note! Turn off your User Account Control in order for installation to be successful__.
+1. [Download the SDK](http://www.citrix.com/static/cdn/archivedsdks/mfcom/5.0/mpssdk.msi) from Citrix web site. __Please note! Turn off your User Account Control in order for installation to be successful__.
 1. Follow the __Installation Wizard__ steps.
 1. Make sure that “__Register remote MFCOM server__” option is checked in.
 1. Enter the __Citrix Management Server__ name and click __Next__ to proceed and finish the installation.
 
-### Add SysKit Service User to the Citrix Farm Administrators group
+### Add SysKit Monitor Service User to the Citrix Farm Administrators group
 
 1. Navigate to the __Start__ > __Citrix__ > __Management Consoles__ > __Access Management Console__.
 1. Expand the __Citrix Resources__ section and the __XenApp__ subsection. Choose the Citrix farm and click on the __Administrators__ group.
@@ -23,7 +23,7 @@ In order for monitoring to be successful these are the steps you will have to pe
 1. Enter the name of a __service user__ that you would like to add and click __OK__. After you added the chosen service user, click __OK__ and then __Next__.
 1. In the second step of the Add Citrix Administrator wizard choose the __View Only__ privilege level for the newly added administrator.
 
-### Add SysKit Service User to the Component Services Administrators
+### Add SysKit Monitor Service User to the Component Services Administrators
 
 1. Run the __Component Services__. (type in the __dcomcnfg__ in the Run.. and press enter to start it)
 1. Expand the __Component Services__ section and __Computers__ subsection. Right click on the __My Computer__ and select __Properties__.
@@ -34,8 +34,8 @@ In order for monitoring to be successful these are the steps you will have to pe
 
 Your Citrix Management Server is now configured for the SysKit Monitor Published Applications monitoring.
 
-__In case of any difficulties during the configuration feel free to [contact](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications/contact-us) our support team__.
+__In case of any difficulties during the configuration feel free to [contact](https://www.syskit.com/support/contact-us/) our support team__.
 
-See [Configure SysKit for Citrix XenApp 6.0/6.5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications/configure-syskit-for-citrix-xenapp6/6.5-published-application-monitoring) to learn more.
+See [Configure SysKit Monitor for Citrix XenApp 6.0/6.5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp6-published-applications) to learn more.
 
-See [Monitor Citrix Published Applications](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications/monitor-citrix-published-applications) to learn more.
+See [Monitor Citrix Published Applications](#internal/how-to/citrix-xenapp/monitor-citrix-published-applications) to learn more.

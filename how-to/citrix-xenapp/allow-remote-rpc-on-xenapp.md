@@ -1,7 +1,7 @@
 ---
 Title: Allow Remote RPC on XenDesktop machines.
 Author: Andrea Budisa
-Description: 
+Description: This article describes how to monitor XenDesktop machines.
 Date: 29/06/17
 ---
 In order to monitor __XenDesktop__ machines without any agents installed, our software requires to Allow Remote RPC traffic in order to get the data from the client machine. After you enable this you will be able to connect and capture data from the XenDesktop machines completely offloading processing to the SysKit box.
@@ -20,4 +20,4 @@ The easiest way to perform this is via the group policy. We will create either n
 1. In the key path navigate to __SYSTEM\CurrentControlSet\Control\Terminal Server__ and set __Value data to decimal 1__.
 1. Confirm everything and that’s it, now SysKit Monitor is able to get the data from XenDesktop machines as well.
 
-What you need to do now is to go back to the SysKit application and add extra machines you want to monitor.
+What you need to do now is to go back to the SysKit Monitor application and add extra machines you want to monitor.

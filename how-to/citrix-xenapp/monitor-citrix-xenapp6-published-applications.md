@@ -12,11 +12,11 @@ In order for monitoring to be successful, these are the steps you will have to p
 1. Check in the __Enable remote management of this server from other computers__ option and click __OK__ to finish.
 1. Alternatively, verify in PowerShell that WinRM is configured properly, open powershell and type in winrm quickconfig.
 
-If you received access denied error run PowerShell as Administrator.
+   If you received access denied error run PowerShell as Administrator.
 
 1. Confirm __Yes__ that you want enable to create WinRM listener and create firewall exception.
 
-### Add SysKit Service User to the Citrix Farm Administrators group on the XenApp management server
+### Add SysKit Monitor Service User to the Citrix Farm Administrators group on the XenApp management server
 
 1. Navigate to the __Start__ > __Administrative Tools__ > __Citrix__ > __Management Consoles__ > __Citrix AppCenter__.
 1. Expand the __Citrix Resources__ section and the __XenApp__ subsection. Choose the Citrix farm and click on the __Administrators__ group.
@@ -28,8 +28,8 @@ If you received access denied error run PowerShell as Administrator.
 
 Your Citrix Management Server is now configured for the SysKit Published Applications monitoring.
 
-__In case of any difficulties during the configuration feel free to [contact](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp6-published-applications/contact-us) our support team__.
+__In case of any difficulties during the configuration feel free to [contact](https://www.syskit.com/support/contact-us/) our support team__.
 
-See [Configure SysKit Monitor for Citrix XenApp 5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp6-published-applications/configure-syskit-for-citrix-xenapp5-published-application-monitoring) to learn more.
+See [Configure SysKit Monitor for Citrix XenApp 5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications) to learn more.
 
-See [Monitor Citrix Published Applications](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp6-published-applications/monitor-citrix-published-applications) to learn more.
+See [Monitor Citrix Published Applications](#internal/how-to/citrix-xenapp/monitor-citrix-published-applications) to learn more.
