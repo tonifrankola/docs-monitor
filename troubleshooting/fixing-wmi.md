@@ -1,7 +1,7 @@
 ---
 Title: Fixing WMI to work with SysKit
 Author: Andrea Budisa
-Description:
+Description: This article explains how to resolve the corruption issue due to large WMI repository.
 Date: 29/06/17
 ---
 Windows Management Instrumentation (WMI) is the infrastructure for management data and operations on Windows-based operating systems. WMI uses the Common Information Model (CIM) industry standard to represent systems, applications, networks, devices, and other managed components. Our applications use WMI to capture some of the data from remote servers such as total memory, disk size etc.
@@ -22,10 +22,10 @@ You can download it from [here](https://www.microsoft.com/en-us/download/details
 1. If repository is found to be __inconsistent__:
 For Windows Server 2008 and newer, run the Command Prompt as an administrator and enter: __Winmgmt /salvagerepository__.
 
-> __Please note__! This command will take the content of the inconsistent repository and merge it into the rebuilt repository if it is readable.
+__Please note!__ This command will take the content of the inconsistent repository and merge it into the rebuilt repository if it is readable.
  
 If the above procedure does not work, then run: __Winmgmt /resetrepository__.
 
-> __Please note__! This will reset repository to the initial state when the OS was first installed.
+__Please note!__ This will reset repository to the initial state when the OS was first installed.
  
 For older OS like Windows Server 2003, there are no built in switches to rebuild the Repository, so you must do it manually.

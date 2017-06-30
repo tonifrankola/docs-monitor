@@ -1,9 +1,11 @@
 ---
 Title: SQL Server Express 2012 LocalDB
 Author: Andrea Budisa
-Description: This article is intended for advanced users, administrators, and IT professionals.
+Description: This article explains how to troubleshoot and fix SQL Server 2012 LocalDB instance.
 Date: 29/06/17
 ---
+This article is intended for advanced users, administrators, and IT professionals.
+
 If you are using __Microsoft SQL Server 2012 Express LocalDB__ as a database backend with SysKit Monitor, there can be permission issues while attempting to access an existing LocalDB instance using a different username or account. These configuration issues can arise when upgrading the application to a new version and using a different user account.
 
 By default, access to the instance of LocalDB is __limited to its owner__. The data contained in the LocalDB is protected by file system access to the database files.
@@ -15,7 +17,7 @@ If you are having connection problems and getting errors while accessing the Loc
 
 To delete completely the LocalDB instance that is owned by the old user, open __Regedit.exe__ and search for “__SysKitMonitorPrivate__”. You will get two results in total:
 
-1. ‘Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server Local DB\Shared Instances\SysKit’
+1. ‘Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server Local DB\Shared Instances\SysKit Monitor’
 
 1. ‘Computer\HKEY_USERS\ … \SOFTWARE\Microsoft\Microsoft SQL Server\UserInstances\{ … }’
 

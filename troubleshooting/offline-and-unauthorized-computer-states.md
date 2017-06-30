@@ -1,16 +1,16 @@
 ---
 Title: How to resolve the Offline and Unauthorized computer states
 Author: Andrea Budisa
-Description: 
+Description: This article explains how to resolve offline and unauthorized computer states. 
 Date: 29/06/17
 ---
 ### How to resolve the Unauthorized state?
 
-If the computer is in __Unauthorized__ state on the [Administration – Computer](#internal/troubleshooting/offline-and-unauthorized-computer-states/computer-and-computer-groups) category, that means the __Service User__ is not a member of the __Local Administrators Security Group__ on the remote computer where you see the message.
+If the computer is in __Unauthorized__ state on the [Administration – Computer](#internal/get-to-know-syskit-monitor/administration/servers-and-groups) category, that means the __Service User__ is not a member of the __Local Administrators Security Group__ on the remote computer where you see the message.
 
 In order to get the data remotely, the service user needs to be a __member of the Local Administrators Security Group__ on the remote computer.
 
-You can add the service user to the local Administrators Security Group [manually](#internal/troubleshooting/offline-and-unauthorized-computer-states/add-service-user-to-local-administrators-group-manually) or through the [Group Policy](#internal/truobleshooting/offline-and-unauthorized-computer-states/add-service-user-to-local-administrators-group-via-group-policy).
+You can add the service user to the local Administrators Security Group [manually](#internal/how-to/service-accounts/add-service-user-manually) or through the [Group Policy](#internal/how-to/service-accounts/add-service-user-group-policy).
 
 ### How to resolve the Offline state for workstations?
 
@@ -30,4 +30,4 @@ The easiest way to perform this is via the group policy. We will create either n
 
 What you need to do now is to go back to the SysKit Monitor application and add extra workstations you want to monitor.
 
-See [Network Ports](#internal/troubleshooting/offline-and-unauthorized-computer-states/network-ports) article to learn more on how to configure firewall settings for data collection.
+See [Network Ports](#internal/troubleshooting/network-ports) article to learn more on how to configure firewall settings for data collection.
