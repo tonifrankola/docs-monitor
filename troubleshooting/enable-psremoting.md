@@ -1,7 +1,7 @@
 ---
-Title: Enable-PSRemoting for untrusted domains to work with SysKit
+Title: Enable-PSRemoting for untrusted domains to work with SysKit Monitor
 Author: Andrea Budisa
-Description: 
+Description: This article explains how to Enable-PSRemoting for untrusted domains to work with SysKit Monitor
 Date: 29/06/17
 ---
 WinRM (Windows Remote Management) PowerShell enables you to create a remote session to a computer. The functionality is similar to familiar remote administration tools such as SSH, but it utilizes industry-standard ports and protocols such as HTTP and SOAP.
@@ -12,7 +12,7 @@ The Windows PowerShell remoting features are supported by the WS-Management tech
 
 Although most Windows systems should have at least PowerShell 2.0 installed (it’s the default on Windows 7 and Windows Server 2008), PowerShell remoting was not enabled by default until Windows Server 2012. 
 
-> __Please note!__ Windows Server 2012 and later have PowerShell remoting enabled by default. There’s no need to run Enable-PSRemoting unless it has been disabled for some reason.
+__Please note!__ Windows Server 2012 and later have PowerShell remoting enabled by default. There’s no need to run Enable-PSRemoting unless it has been disabled for some reason.
  
 You can verify the availability of WinRM and configure a PowerShell for remoting by following these steps:
 
@@ -24,4 +24,4 @@ This command configures the computer to receive Windows PowerShell remote comman
 
 In many cases, SysKit Monitor will be able to work with remote computers in other domains. However, if the remote computer is not in a trusted domain, the remote computer might not be able to authenticate your credentials. To enable authentication, you need to add the remote computer to the list of trusted hosts for the local computer in WinRM. To do so, type the following command: __winrm s winrm/config/client ‘@{TrustedHosts=”RemoteComputer”}’__.
 
-> __Please note!__ “RemoteComputer” should be the name of the remote computer, such as {TrustedHosts=”CorpServer”}.
+__Please note!__ “RemoteComputer” should be the name of the remote computer, such as {TrustedHosts=”CorpServer”}.
