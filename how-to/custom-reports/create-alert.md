@@ -23,4 +23,4 @@ This article explains how to set Custom Reports alerts.
 * **Remove Alert** – deleting this alert will stop new entries email notifications.
 * **Alert Last Sent** – provides an information about time last alert was sent at.
 
-See [Configure Send e-mails system job](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) to enable receiving email alerts.
+See [Configure Send e-mails system job](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options#send-emails) to enable receiving email alerts.
