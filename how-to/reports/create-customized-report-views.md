@@ -23,7 +23,7 @@ SysKit Monitor saves the following customizations you make to a report view:
 
 #### Save, rename or remove a custom view
 
-You can customize a report in SysKit. For example, you can remove columns, add filters or apply a grouping. You can also change a report’s date range, which will be preserved in the saved views.
+You can customize a report in SysKit Monitor. For example, you can remove columns, add filters or apply a grouping. You can also change a report’s date range, which will be preserved in the saved views.
 * Right-click the report column and the column chooser will be displayed. Drag and drop the desired columns into your report view.
 * Right-click the report toolbar and you will be able to choose standard functions from the drop-down list to help you make quick calculations on the data in your report views, such as sums and averages. You can also calculate the total count, and the minimum and maximum values for a selected column.
 * Click the **Save View Changes** button in the upper ribbon.
