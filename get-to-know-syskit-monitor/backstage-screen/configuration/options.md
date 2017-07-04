@@ -1,6 +1,6 @@
 ---
 title: Options
-description: This article explains how to you configure the available options for SysKit Monitor.
+description: This article explains how to you configure the available options for SysKit Monitor. Options include General, Alerts, Export and System Jobs configuration.
 author: Andrea Budisa
 date: 29/6/2017
 ---
@@ -165,7 +165,7 @@ This feature is used for loading balanced Citrix farm environments. If you are n
 
 ## Data Retention
 
-This section describes how to configure Data Retention in order to save space on the SQL Server.
+This section describes how to configure **Data Retention** in order to save space on the SQL Server.
 
 #### Data Retention Settings
 
@@ -211,10 +211,11 @@ This section describes the **SysKit Monitor Service**.
 
 #### Collect Interval
 
-* Set the SysKit Monitor collect interval. In this interval, the product will collect data from the monitored computers. The default and recommended interval is 90 seconds. The lower the interval, the more accurate the data will be, but the recommended scenario is never to hold this value under 60 seconds. However, we have calculated that the best value and accuracy rate is the default 90 seconds.
+* Set the SysKit Monitor collect interval. In this interval, the product will collect data from the monitored computers. The default and recommended interval is 90 seconds. The lower the interval, the more accurate the data will be, but the recommended scenario is never to hold this value under 60 seconds.   
+However, we have calculated that the best value and accuracy rate is the default 90 seconds.
 * You can choose whether to show warning when service is not running or not.
 * **Verbose logging** – You can choose to enable these options to help our developer and support teams solve potential problems before they occur. Before enabling these options, please consult our support team. Select the check boxes to enable verbose logging for the following sources:
    * Verbose event logging – The Windows Event Viewer will list in detail every event that usually cannot be viewed.
    * Database service log sources SysKit Monitor Service will write entries for the specified sources into the product database. The drop-down menu contains the following sources: Analyzer, Performance Counters, System Jobs, and PowerShell.
 
-The verbose event logging warning will show if any of the available options have been enabled, because a lot of entries could be written into the Windows Event Viewer and product database.
+   The verbose event logging warning will show if any of the available options have been enabled, because a lot of entries could be written into the Windows Event Viewer and product database.
