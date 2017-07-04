@@ -10,11 +10,13 @@ SysKit Monitor Web UI allows you to monitor and report from wherever you are. It
 After you have [installed the SysKit Monitor Web Application](#internal/installation-configuration/configuration-wizard/configure-monitor), double click on the SysKit Monitor Web App shortcut on desktop or open your web browser and type in the server name where the SysKit Monitor Web Application is installed, e.g., **Server.domain.name:port/**. The SysKit Monitor Web interface will appear, and it will be ready to explore.
 
 If this doesn’t get you started, try verifying the following:
-* Run the **Internet Information Services Manager**.
-* Find your newly created SysKit Monitor site and click on the **Browse Web Site (http)** link.
-* A dialog box will appear in the browser, requesting the user to **provide credentials** to access the SysKit Monitor Web Application.
+
+1. Run the **Internet Information Services Manager**.
+2. Find your newly created SysKit Monitor site and click on the **Browse Web Site (http)** link.
+3. A dialog box will appear in the browser, requesting the user to **provide credentials** to access the SysKit Monitor Web Application.
 
 The benefits of using the SysKit Monitor Web Application:
+
 * Simple and easy-to-use reporting interface
 * Gives you deep insight into employees’ activities
 * Helps you meet regulatory requirements
@@ -23,6 +25,7 @@ The benefits of using the SysKit Monitor Web Application:
 * Simplifies organization-wide access to user activity reports.
 
 Use the Reports toolbar to perform the following actions:
+
 * **Send Mail** – Send the current report to email
 * **Export** – Export the current report to a PDF or Excel file
 * **Refresh** – Refresh items in the main view
@@ -30,13 +33,10 @@ Use the Reports toolbar to perform the following actions:
 
 ## Change the application site port number
 
-If you are having problems accessing the SysKit Monitor site, it may be that some other web site is using the same port number as a SysKit Monitor Web Application. 
-
+If you are having problems accessing the SysKit Monitor site, it may be that some other web site is using the same port number as a SysKit Monitor Web Application.  
 In that case you will have to change the default port number:
+
 1. Run the **Internet Information Services (IIS) Manager**.
-
-1. Expand the Sites List, select the SysKitMonitorApp, and in the Actions pane, click **Bindings**.
-
-1. Select the site binding you want to change the port number for and click on the **Edit** button.
-
-1. Change the default port number to the next available number and click OK to apply the changes.
+2. Expand the Sites List, select the SysKitMonitorApp, and in the Actions pane, click **Bindings**.
+3. Select the site binding you want to change the port number for and click on the **Edit** button.
+4. Change the default port number to the next available number and click OK to apply the changes.

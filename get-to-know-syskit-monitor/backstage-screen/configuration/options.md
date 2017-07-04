@@ -15,13 +15,12 @@ This section describes general options for configuring report and dashboard data
 
 * **Monitor information** about applications will monitor the applications users are running on the Remote Desktop Services / Citrix Xenapp server.
 * **Enable public IP fetching** enables you to get the IP address of the client if he is connecting directly to the server via WAN. If server is sitting on the public IP and your clients are connecting from home or from remote locations, you can monitor the public IP addresses of all the clients that are connecting to your environment.
->_**Please note!**_ *Enabling public IP fetching may decrease the network performance. Please consult with our support team for additional information.*
-
+  > **Please note!** Enabling public IP fetching may decrease the network performance. Please consult with our support team for additional information.
 * **Anonymous activity tracking** means that activities will still be tracked but you will not be able to see the real usernames and profiles. Data already stored will also be converted.
->_**Please note!**_ *Use this option wisely, in case you proceed with anonymization you will not be able to revert this process!*
+  > **Please note!** Use this option wisely, in case you proceed with anonymization you will not be able to revert this process!
 * **Use Username instead Full Name** changes all full names in the reports to the corresponding usernames.
 * **Enable Role-based security** allows you to adjust for the each viewer individually which OU’s he can see in the reports.
-* **Report user’s state as Idle after X minutes of inactivity** will report idle time after this time. This means that if a user is idle for 4 minutes, SysKit Monitor will not mark him as Idle. If the user is idle for 5 minutes or more SysKit MOnitor will start calculating that user as Idle.
+* **Report user’s state as Idle after X minutes of inactivity** will report idle time after this time. This means that if a user is idle for 4 minutes, SysKit Monitor will not mark him as Idle. If the user is idle for 5 minutes or more SysKit Monitor will start calculating that user as Idle.
 * **Use only top values** option if your charts contain a big number of values and you are only interested in top values. After selecting this, you will have the ability to set the top N values in the charts.
 
 #### Dashboard Options
@@ -63,7 +62,7 @@ This section describes appearance modification of the exported reports and save 
 
 #### Network and SharePoint Save Locations
 
-To be able to save various SysKit Monitor reports to **File Share** and **SharePoint**, it is necessary to configure the Location settings.
+* To be able to save various SysKit Monitor reports to **File Share** and **SharePoint**, it is necessary to configure the Location settings.
 
 ## System Jobs configuration
 
@@ -99,9 +98,10 @@ See [How to configure Report Subscriptions](#internal/how-to/reports/configure-r
 This section describes **AD Integration** system job and how to configure all of the settings.
 Information is periodically retrieved from the Active Directory, as set in the period options (the recommended interval is once a day).
 The Active Directory Integration gathers the following data for each user:
+
 1. Membership in Organizational units (name and description)
-1. Memberships in Security and distribution groups (name and description)
-1. User personal data, such as e-mail, first name, last name, etc.
+2. Memberships in Security and distribution groups (name and description)
+3. User personal data, such as e-mail, first name, last name, etc.
 
 Integration only gathers data about groups and OUs that have members in the server farm. To improve the performance, it will not gather data about users that are not logged in as RDS users.
 
@@ -116,9 +116,9 @@ In the **Add/Edit Domain** dialog, you can **manage** and **configure** the foll
 * Enter a valid domain name, domain controller name, or IP address of the domain controller;
 * Enable or disable the selected domain; and
 * Modify the credentials for the selected domain.
-> _**Please note!**_ *If the trust relationship was established with newly created or existing domains, they will be discovered and shown in the AD integration dialog after the AD integration system job execution.*
+> **Please note!** If the trust relationship was established with newly created or existing domains, they will be discovered and shown in the AD integration dialog after the AD integration system job execution.
 
-See [Monitoring multiple domains](https://www.syskit.com/blog/multi-tenant-server-monitoring-with-syskit/) to learn more about how to use SysKit Monitor to monitor more than one AD domain.
+See the [Monitoring multiple domains](https://www.syskit.com/blog/multi-tenant-server-monitoring-with-syskit/) article to learn more on how to use SysKit Monitor to collect data for more than one AD domain.
 
 #### Period
 
@@ -126,8 +126,7 @@ See [Monitoring multiple domains](https://www.syskit.com/blog/multi-tenant-serve
 
 ## Extract Event Log
 
-This section describes how to configure the **Extract Event Log** system job and **Block malicious IP addresses** feature.
-
+This section describes how to configure the **Extract Event Log** system job and **Block malicious IP addresses** feature.  
 Turn this system job on if you want to collect auditing of the files and folders, who is accessing which files and when exactly, and if users have deleted/written/appended any data to the existing or new files.
 
 #### Configure Event Log Extraction
@@ -136,6 +135,7 @@ Turn this system job on if you want to collect auditing of the files and folders
    * After how many failed attempts to block certain IPs.
    * After how many hours to unblock these IP addresses.
    * If you want to perform unblocking of the computers with blocked IPs immediately, click the **Unblock blocked IP Addresses** button.
+
 #### Period
 
 * Set the **Period** for how often this job will be executed.
@@ -169,8 +169,9 @@ This section describes how to configure **Data Retention** in order to save spac
 
 #### Data Retention Settings
 
-Here you can modify the length options for the period after which the product will automatically delete data from the product database.
+Here you can modify the length options for the period after which the product will automatically delete data from the product database.  
 By default, all retention options are set as follows:
+
 * Delete log entries older than 5 years;
 * Delete performance counter data older than 30 days;
 * Delete PowerShell script data older than 30 days.
@@ -186,12 +187,13 @@ This section describes how to configure the **Inventory Snapshots** system job.
 #### Snapshots Settings
 
 Here you can choose which Inventory data SysKit Monitor will collect **when taking a snapshot**:
+
 * Enable the collection of hardware and software inventory components, such as CPU, RAM, available hard disk space, installed programs, Windows updates, and local administrators on the servers.
 * Enable the execution of PowerShell scripts on the defined computers or computer groups. This means the created PowerShell scripts will be **scheduled to run** on every Inventory Snapshots system job triggered.
 
->_**Please note!**_ *When Printers option is enabled, user printer information will be collected on every service triggering along with the other user options. This can slow down data gathering and application performance. We strongly recommend not to enable this feature unless it is necessarily needed.*
+> **Please note!** When Printers option is enabled, user printer information will be collected on every service triggering along with the other user options. This can slow down data gathering and application performance. We strongly recommend not to enable this feature unless it is necessarily needed.
 
->_**Please note!**_ *When Available and Installed Updates options are enabled, the software information will be collected on every service triggering. This can slow down data gathering and application performance.*
+> **Please note!** When Available and Installed Updates options are enabled, the software information will be collected on every service triggering. This can slow down data gathering and application performance.
  
 By default, all options for taking snapshots and for report visibility in the Compare Wizard are set to **Enabled**.
 
