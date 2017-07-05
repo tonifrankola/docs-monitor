@@ -1,6 +1,6 @@
 ---
 title: File System Auditing
-description: This article describes how to see who accessed, modified, or deleted certain files.
+description: This article describes how to track file access activities, which include who accessed, modified, or deleted certain files.
 author: Andrea Budisa
 date: 28/6/2017
 ---

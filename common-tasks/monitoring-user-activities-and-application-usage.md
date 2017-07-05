@@ -11,16 +11,12 @@ There are many reasons to monitor user activity. First, monitoring user sessions
 Second, monitoring a **user’s application usage** provides data such as the **number of application instances** and the **total time the users spent using a particular application** on Remote Desktop Services. You can also keep track of the **number of concurrent application instances per user** during each hour over the course of one day or a selected Date Range. Application Reports provide application usage information, giving you detailed insights into which application the user used, which computer(s) the user used it on, the total and average time spent using an application in each session state (Active and Idle), etc.
 
 #### In the fourth part of the training you can learn about monitoring user activities and application usage.
+
 * Where can I view the most active users by time spent on the system?
-
 * Where can I view a detailed session log for a specific user?
-
 * Where can I track the bandwidth usage for each user?
-
 * Where can I view the most used applications?
-
 * Where can I track which user used a specific application as well as when and for how long the user used it?
-
 * Where can I view the number of concurrent application instances for a specific application per day?
 
 ## What's the difference between the active, idle and disconnected states?

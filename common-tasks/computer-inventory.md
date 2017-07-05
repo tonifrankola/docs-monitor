@@ -8,13 +8,11 @@ SysKit Monitor provides hardware and software asset inventories that give a **de
 
 Server inventory is gathered periodically in the form of **snapshots**. Once the snapshots are created, they can be browsed, examined and compared. For more details, check out the [Inventory Snapshots](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) and [Compare Wizard](#internal/get-to-know-syskit-monitor/reports/inventory-reports/compare-wizard).
 
-SysKit Monitor Inventory reports help you to:
+Inventory Reports within SysKit Monitor help you to:
+
 * Manage your hardware and software inventory more efficiently.
-
 * Estimate PC readiness for technology implementations, upgrades, and migrations.
-
 * Detect the presence of malicious or unnecessary applications.
-
 * Keep track of installed and available Windows updates on your servers for more efficient patch management.
 
 ### Hardware inventory
@@ -25,11 +23,10 @@ With these reports you can easily check disk space usage to identify computers l
 
 ### Software Inventory 
 
-The software inventory reports provide information about all the software installed across your server environment. The reports contain various pieces of information about installed programs, all available updates, as well as already installed updates. 
-
+The software inventory reports provide information about all the software installed across your server environment. The reports contain various pieces of information about installed programs, all available updates, as well as already installed updates.  
 Also, you can view all the services running on local and remote computers and a list of certificates in the personal store. This may be particularly useful when you’re interested in the validity period, friendly name, thumbprint or an intended purpose of a piece of software.
 
-> *Please note! The values shown on the Services report are, by default, collected weekly within the Inventory Snapshots. However, they are real time in the Windows Services report in the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) section.*
+> __Please note!__ The values shown on the Services report are, by default, collected weekly within the Inventory Snapshots. However, they are real time in the Windows Services report in the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) section.
 
 All of the above reports offer better management and optimization of your software inventory.
 
@@ -39,7 +36,7 @@ All of these details are collected and retrieved when SysKit Monitor runs the Sy
 
 To see how to configure the SysKit Monitor System Jobs, check out the [Options](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) section. SysKit Monitor runs these jobs by itself, so no administrator intervention is needed once you configure the jobs properly.
 
-Inventory Snapshots is one of the System Jobs that SysKit runs. This is how SysKit collects data about the inventory in your server environment. Note that you can omit certain data from being collected if you don’t have the need for them, as well as manage them, mark certain configurations as good and take snapshots manually. You can change this in the [Inventory](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) options section.
+Inventory Snapshots is one of the System Jobs that SysKit Monitor runs. This is how SysKit Monitor collects data about the inventory in your server environment. Note that you can omit certain data from being collected if you don’t have the need for them, as well as manage them, mark certain configurations as good and take snapshots manually. You can change this in the [Inventory](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) options section.
 
 ### Compare Inventory Snapshots and computers
 

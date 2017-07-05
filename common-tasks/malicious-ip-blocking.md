@@ -1,6 +1,6 @@
 ---
 title: Malicious IP Blocking
-description: This article focuses on the Blocked IP Addresses report that shows the list of blocked IP addresses via Windows Firewall rules.
+description: This article focuses on the Blocked IP Addresses feature that creates a list of blocked IP addresses via Windows Firewall rules.
 author: Andrea Budisa
 date: 28/6/2017
 ---
