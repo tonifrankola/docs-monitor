@@ -6,52 +6,33 @@ date: 29/6/2017
 ---
 This article explains how to create a custom report that meets your needs better than the built-in reports.
 
-Creating a new custom report is very simple everything is done throught the wizard. For example, this will be a report that shows users’ idle time on the servers for the current day.
+Creating a new custom report is very simple everything is done throught the wizard. For example, this will be a report that shows users’ __idle time on the servers__ for the current day.
 
-### Step 1: Custom Report Name
+1. In Step 1, simply enter the Custom Report name and select the desired report category. The Report Type you wish to create here is __Normal__. The wizard also offers two different grid types: Grid and Pivot Grid.
 
-Enter a unique name for the custom report.
+2. In Step 2, you must select the type of data you wish to report on. Your report can display data about activities, applications, logon audit, and file access audit.
 
-### Step 2: Type of Data
+3. In Step 3, you can select fields to be included in your report. Depending on the data type selected in the previous step, you will have different columns displayed.
 
-You must select the type of data you wish to report on. Your report can show data about activities, applications and logon audit.
+4. In Step 4, using arrows on the right side you can order the report fields, which have been selected in the previous step, the way you wish to view them. You can also select default sorting for each field.
 
-### Step 3: Select Fields
+5. In Step 5, you can specify the conditions you want to check for each field. Each field contains different types of data (numbers, dates, …), so you can select specific conditions which depend on the data type.  
+For example, for date fields you can select Today, Yesterday, Next Week and more, and for activity state you can select Active, Idle, Disconnected, Remote Control, Other.
 
-You can select fields to be included in your report.
+6. In Step 6, you can select fields by which you wish to group the resulting data.
 
-### Step 4: Field Order and Sorting
+7. The Step 7 will be shown only if it is possible to calculate the summary for one of the selected fields (this is when one of the fields is a numeric type). The following __aggregation types__ are available: None, Avg, Count, Max, Min, and Sum.
 
-Using arrows on the right side you can order the report fields the way you wish to view them and you can select default sorting for each field.
+8. The Step 8 is optional, if you select the __Add a chart to this report__ option, the chart visual options will be enabled. You can choose the chart type, color pallete and whether to show legend and labels.
 
-### Step 5: Set Filters
+9. The Step 9 will be shown only if the chart component is added in the previous step. It will allow you to define various chart axis properties.
 
-Here you can specify the conditions you want to check for each field. Each field contains different types of data (numbers, dates, …) so you can select specific conditions which depend on the data type. For example, for date fields you can select Today, Yesterday, Next Week and more, and for activity state you can select Active, Idle, Disconnected, Remote Control, Other.
+10. The Step 10 allows column binding to series and arguments.
 
-### Step 6: Group By
-
-You can select fields by which you wish to group the resulting data.
-
-### Step 7: Aggregations
-
-This step will be shown only if it is possible to calculate the summary for one of the selected fields (this is when one of the fields is a numeric type).
-
-### Step 8: Chart
-
-This step allows selecting the chart type, color pallete and whether to show legend and labels.
-
-### Step 9: Chart Axes
-
-This step allows defining chart axis properties.
-
-### Step 10: Chart Data Binding
-
-This step allows binding columns to series and arguments.
-
-### Final Step
-
-Custom report has been successfully created and just click Finish to close the wizard.
+11. In Step 11, you will be informed that the custom report has been successfully created. Click __Finish__ to exit the wizard.
 
 ### Download the custom report definition
 
 Download the definition of this custom report: [Idle-Activities-Today](https://www.syskit.com/wp-content/uploads/2015/11/Idle-Activities-Today.zip)
+
+See the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) article to learn how to download and import the predefined Custom Reports from Acceleratio’s repository.

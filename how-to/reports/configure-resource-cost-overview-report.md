@@ -11,5 +11,5 @@ Resource Cost Overview Report enables you to see the costs of all the available 
 To be able to get the correct payment values on the Resource Cost Overview Report, please complete the following steps:
 
 1. Click **File**, select **Manage** from the left navigation bar and click the **Users** button.
-1. In the **Manage Users** dialog, select the user for whom you want to define the Hourly Wage and click **Edit**. If you want to change the Hourly Wage for selected user, change the appropriate text field.
-1. Click **OK** to finish. The payment values for the resources will appear on the **Resource Cost Overview** report.
+2. In the **Manage Users** dialog, select the user for whom you want to define the Hourly Wage and click **Edit**. If you want to change the Hourly Wage for selected user, change the appropriate text field.
+3. Click **OK** to finish. The payment values for the resources will appear on the **Resource Cost Overview** report.
