@@ -1,0 +1,20 @@
+---
+Title: User States
+Author: Andrea Budisa
+Description: 
+Date: 29/06/17
+---
+### How long does a person have to be inactive on a computer before the idle time starts to accumulate?
+
+The system is set by default to report the user’s state as idle after __five minutes__ of inactivity. It is possible to change that default period by navigating to the __File__ tab, selecting __Configuration__ from the left navigation bar, and then clicking on the __Options__ button.
+On the [General](#internal/troubleshooting/user-states/options) tab, you can change the period after which user’s state will be reported as __Idle__.
+
+### Is SysKit Monitor logging a session even if the user is inactive or disconnected?
+
+#### Problem:
+
+A particular user has not used the SysKit Monitor due to being on a vacation for two weeks, but the user is listed as working around the clock. Do you think that SysKit Monitor keeps logging a session even if the user is inactive or disconnected?
+
+#### Solution:
+
+Yes, that is the disconnected state. If the user is disconnected from the server, the session is still alive, so SysKit Monitor will log the user. If the user cleaned the log off, there is no session, so SysKit Monitor will not see the user anymore. A possible scenario is to configure cleaning of the log off after x hours of inactivity and release the resources on the server for other users.
