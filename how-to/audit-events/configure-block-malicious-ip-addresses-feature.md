@@ -7,23 +7,18 @@ date: 30/6/2017
 In case you notice that IP addresses are not being reported in the SysKit Monitor application, check if these options on the SysKit Monitor application server are correctly set:
 
 1. Go to the **Start** > **Administrative Tools** > **Remote Desktop Services** > **Remote Desktop Session Host Configuration**.
+2. Double click on the **RDP-Tcp** connection.
+3. In the __RDP-Tcp Properties__ dialog, choose the General tab and change the __Security Layer__ setting to the __RDP Security Layer__.
+   > **Please note!** In case this security setting is configured to **Negotiate**, Windows server will always use the SSL (TLS 1.0) security layer and IP addresses will not be fetched.
 
-1. Double click on the **RDP-Tcp** connection.
-
-1. Change the Security Layer setting to the RDP Security Layer.
->_**Please note!**_ *In case this security setting is configured to **Negotiate**, Windows server will always use the SSL (TLS 1.0) security layer and IP addresses will not be fetched.*
-
-4. Change the Encryption level to **High**.
-
-1. Click **Apply** and **OK** to finish.
->_**Please note!**_ *Next two steps should be performed on every monitored server!*
+4. Change the Encryption level to **High** in the same screen.
+5. Click **Apply** and **OK** to finish.
+   > **Please note!** Next two steps should be performed on every monitored server!
 
 6. Now open the **Server Manager** and select the **Configure Server Manager Remote Management**.
+7. In this dialog, enable the **Enable remote management of this server from other computers** option.
 
-1. Select the **Enable remote management of this server from other computers** option.
+The server configuration is finished and now you should be able to use the Block Malicious IP Addresses feature within the SysKit Monitor.
 
-The server configuration is finished and now you should be able to use the Block Malicious IP Addresses feature.
-
-See [Event Log System Job](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options#extract-event-log) to learn more.
-
+See [Event Log System Job](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options#extract-event-log) to learn more.  
 See [Configure Audit Logon Events](#internal/how-to/audit-events/configure-audit-logon-events) to learn more.
