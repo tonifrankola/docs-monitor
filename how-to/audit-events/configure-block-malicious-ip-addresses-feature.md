@@ -1,6 +1,6 @@
 ---
-title: Configure SysKit Monitor Server to support the Block Malicious IP Addresses feature
-description: This article explains how to configure the Block Malicious IP Addresses features in SysKit Monitor.
+title: Configure SysKit Monitor server to support the Block Malicious IP Addresses feature
+description: This article explains how to configure the SysKit server for the Block Malicious IP Addresses feature to work.
 author: Andrea Budisa
 date: 30/6/2017
 ---

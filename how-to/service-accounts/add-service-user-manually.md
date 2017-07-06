@@ -4,13 +4,11 @@ description: This article explains how to manually add the SysKit Monitor servic
 author: Andrea Budisa
 date: 30/6/2017
 ---
-1. Log on to the server you plan to monitor.
+1. Log on to the server(s) you plan to monitor.
+2. Open **Computer Management** under Administrative tools on each server.
+3. Select **Local Users and Groups** in the left navigation and then **Groups**.
+4. Double-click the **Administrators** security group.
+5. Add the SysKit Monitor service user simply by clicking __Add__ and typing the name of your SysKit Monitor **service user** (usually).  
+After adding the service user, the Administrators security group will have the members listed similarly to the following: Administrator, domain\Domain Admins.
 
-1. Open **Computer management** under Administrative tools.
-
-1. Select **Local user** and groups and then **Groups**.
-
-1. Double-click the **Administrators security group**.
-
-1. Add the SysKit Monitor service user simply by clicking Add and typing the name of your SysKit Monitor **service user** (usually). Your administrator security group will look like that shown below after adding the service user.
->_**Please note!**_ *You need to repeat this procedure for every server you plan to monitor with the SysKit. If you plan to monitor multiple servers, we recommend adding the SysKit service user via [Group Policy](#internal/how-to/service-accounts/add-service-user-group-policy).*
+> **Please note!** You need to repeat this procedure for every server you plan to monitor with the SysKit Monitor. If you plan to monitor multiple servers, we recommend adding the SysKit Monitor service user via [Group Policy](#internal/how-to/service-accounts/add-service-user-group-policy).
