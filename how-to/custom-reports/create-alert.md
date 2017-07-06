@@ -1,20 +1,25 @@
 ---
 title: Create an Alert 
-description: This article explains how to set Custom Reports alerts.
+description: This article explains how to set Custom Reports e-mail alerts.
 author: Andrea Budisa
 date: 29/6/2017
 ---
-This article explains how to set Custom Reports alerts.
+This article explains how to set Custom Reports e-mail alerts.
+
+This feature provides a possibility of receiving an email alert if a new entry is inserted into the previously created custom report - **Idle-Activities-Today**.
 
 ### Create Alert 
 
 1. Click the **Create Alert** button in the Custom Reports ribbon.
-
-1. Specify which e-mail addresses should receive the alerts. Here you can also:
+2. Specify which e-mail addresses should receive the alerts. Here you can also:
    * enable appending new report entries in the e-mail body. If this option is enabled, you can create an entry template using variables such as User, Time Spent etc.
    * select whether to attach report in the e-mail or not.
 
-1. Click **OK** to finish creating an alert.
+   Depending on the custom report's purpose, the following example templates can be entered to the New entry template textbox:
+   * {User} has been Idle for {Time Spent}
+   * {User} has started {Application}
+
+3. Click **OK** to finish creating an alert.
 
 ### Alert Options
 
