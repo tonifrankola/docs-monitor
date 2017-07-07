@@ -1,7 +1,7 @@
 ---
-Title: Configuring CredSSP for use with PowerShell in SysKit
+Title: Configuring CredSSP for use with PowerShell in SysKit Monitor 
 Author: Andrea Budisa
-Description: This article explains how to configuring CredSSP for use with PowerShell in SysKit Monitor.
+Description: This article explains how to enable WSManCredSSP for more advanced PowerShell scripts to work in SysKit Monitor.
 Date: 29/06/17
 ---
 Windows Remote Management (WinRM) supports the delegation of user credentials across multiple remote computers. The multi-hop support functionality can use Credential Security Service Provider (CredSSP) for authentication. CredSSP enables an application to delegate the user’s credentials from the client computer to the target server.
@@ -10,7 +10,7 @@ CredSSP authentication is intended for environments where Kerberos delegation ca
 
 In some cases, a PowerShell script within SysKit Monitor may need to access resources outside the remote server machine. This requires the credentials to be delegated to the target machine.
 
-For example, when the data from SharePoint server are retrieved and a dedicated SQL server instance needs to be accessed or when the data from Active Directory are retrieved and an underlying Domain Controller needs to be accessed.
+For example, when the data from SharePoint server are retrieved and a dedicated SQL Server instance needs to be accessed or when the data from Active Directory are retrieved and an underlying Domain Controller needs to be accessed.
 
 Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter. It must be executed on the __remote computer(s) where SysKit Monitor is executing the script__.
 
@@ -18,7 +18,7 @@ __Enable-WSManCredSSP -Role Client –DelegateComputer *__
 
 These settings allow the client to delegate explicit credentials to a server when server authentication is achieved.
 
-__Please note!__ If you want to tighten the security risk, instead of an asterisk, you need to enter the FQDN of the application server where SysKit Monitor is installed.
+> __Please note!__ If you want to tighten the security risk, instead of an asterisk, you need to enter the FQDN of the application server where SysKit Monitor is installed.
 
 Use the following cmdlet to enable CredSSP on the server by specifying Server in Role. It must be executed on the __application server where SysKit Monitor is installed__.
 

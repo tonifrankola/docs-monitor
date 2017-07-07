@@ -4,8 +4,6 @@ Author: Andrea Budisa
 Description: This articles outlines the network ports required for gathering the data.
 Date: 29/06/17
 ---
-Network ports are required for gathering the data.
-
 If you have a firewall between the server hosting the application and the servers that are being monitored, you will need the following info.
 
 The firewall inbound rules on Windows Server 2008, 2008 R2, 2012 and 2012 R2 are (this is inside the windows firewall):
