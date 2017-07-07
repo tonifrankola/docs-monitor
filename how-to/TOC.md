@@ -6,13 +6,13 @@ private: true
 
 # Dashboards
 ## [Create Custom Dashboard](create-custom-dashboard.md)
-## [Edit Dashboards](edit-dashboards.md)
+## [Edit Dashboards](edit-dashboard.md)
 ## [Add Formatting Condition to Metrics](add-formatting-condition-to-metrics.md)
 
 # Reports
 ## [Export Report to Excel](export-report-to-excel.md)
 ## [Configure Cost Overview Report](configure-cost-overview-report.md)
-## [Configure Report Subscriptions](configure-report-subcriptions.md)
+## [Configure Report Subscriptions](configure-report-subscriptions.md)
 ## [Create Customized Report Views](create-customized-report-views.md)
 
 # Custom Reports
@@ -59,3 +59,4 @@ private: true
 # [Manage Data Collector](manage-data-collector.md)
 # [Move database to new server](move-database-to-new-server.md)
 # [Exclude installation folder from antivirus scanning](exclude-installation-folder-from-antivirus-scanning.md)
+# [Performance Counters Management](performance-counters-management.md)
