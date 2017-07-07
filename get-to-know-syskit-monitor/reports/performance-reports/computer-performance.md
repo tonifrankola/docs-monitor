@@ -21,7 +21,7 @@ __Every chart and value in this report is clickable__, which makes it very usefu
 
 > __Please note!__ This report displays data for a single computer only.
  
-Depending on whether the custom perfromance counters and important services are configured for the selected computer, there is one more category that can be visible here: [Monitoring Templates](#internal/).  
+Depending on whether the custom perfromance counters and important services are configured for the selected computer, there is one more category that can be visible here: [Monitoring Templates](#internal/get-to-know-syskit-monitor/administration/monitoring-templates).  
 Depending on what is configured through the assigned Monitoring Template, this category can contain two subcategories: __Performance Counters__ and __Monitored Services__.
 
 #### Performance Counters
@@ -41,7 +41,7 @@ Defined Windows Services will be listed with the following columns:
 
 If any of monitored services has the service status __`Stopped`__, this means, depending on the defined actions, that SysKit has tried to restart or is in the process of restarting the stopped service(s) on the selected computer. Depending on the options you configure in the __Monitoring Template__ which is assigned to a computer, SysKit can send you __e-mail notifications__ when one or more important services are __stopped__ and can perform __automatic service restarts__. It will also tell you whether it has been successful or not.
 
-See the [Monitoring Templates](#internal/) article to learn more about managing custom performance counters and important services.
+See the [Monitoring Templates](#internal/get-to-know-syskit-monitor/administration/monitoring-templates) article to learn more about managing custom performance counters and important services.
 
 ## CPU, Memory, Disk and Network
 
@@ -74,7 +74,7 @@ __These reports include a few tricks:__
 A small but very important item to note here is the __tooltip__. The tooltip displays details about the data point the mouse is currently hovering over, such as the computer name, date and time values, and value of the data point.  
 Use the __Date Range filter__ to set date boundaries on your performance data. You can select any day, week, or month or a custom date range.
 
-> __Please note!__ You will not be able see any performance data outside 30 days unless you change the Performance Counters [Data Retention](#internal/) settings. The default is set to delete performance counters data older than 30 days.
+> __Please note!__ You will not be able see any performance data outside 30 days unless you change the Performance Counters [Data Retention](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#data-retention) settings. The default is set to delete performance counters data older than 30 days.
 
 #### Reports Ribbon
 
@@ -112,9 +112,9 @@ The maximum number of different counters that can be displayed at the same time 
 
 You can use the search bar to filter computers and performance counter components (e.g., categories, counters, and instances) by their names. Checking or unchecking a specific performance counter status in the status filter will display or hide all the counters and instances that correspond to that status.
 
-> __Please note!__ The Detailed Analysis report will display custom performance data only if one or more [Monitoring Templates](#internal/) has been created and assigned to specific computers or computer groups.
+> __Please note!__ The Detailed Analysis report will display custom performance data only if one or more [Monitoring Templates](#internal/get-to-know-syskit-monitor/administration/monitoring-templates) has been created and assigned to specific computers or computer groups.
 
-The __tree structure status__ values on the Detailed Analysis report __change colors__ depending on the defined thresholds for the selected performance counters, which are configured through the [Monitoring Templates](#internal/) category on the __Administration__ tab.
+The __tree structure status__ values on the Detailed Analysis report __change colors__ depending on the defined thresholds for the selected performance counters, which are configured through the [Monitoring Templates](#internal/get-to-know-syskit-monitor/administration/monitoring-templates) category on the __Administration__ tab.
 
 Custom performance counters can have __four different statuses__ when used to monitor computers:
 

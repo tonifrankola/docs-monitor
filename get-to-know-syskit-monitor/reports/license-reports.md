@@ -8,7 +8,7 @@ Use the License Reports to verify that you meet all license compliance requireme
 
 SysKit provides you with compliance reports which are categorized __per user__ and __per device__. By reporting unused licenses, SysKit can save you money.
 
-> __Please note!__ In order to see the License Reports data it is necessary to [Configure Licenses](#internal/) first.
+> __Please note!__ In order to see the License Reports data it is necessary to [Configure Licenses](#internal/get-to-know-syskit-monitor/backstage-screen/manage-data-gathering/#manage-licenses) first.
 
 Currently available reports are:
 

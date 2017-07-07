@@ -16,7 +16,7 @@ There are __2 visual color indicators__ for computers’ sessions:
 + __Yellow__ – online computer that has reached an alarming number of users (e.g. 51 users online, the warning threshold is 50)
 + __Red__ – online computer that has reached a critical number of users (e.g. 101 users online, the warning threshold is 100)
 
-Use the [Administration – Computers](#internal/) category to adjust the values for __warning__ and __critical__ session thresholds.
+Use the [Administration – Computers](#internal/get-to-know-syskit-monitor/administration/servers-and-groups) category to adjust the values for __warning__ and __critical__ session thresholds.
 
 + __Processes__ – Number of currently running processes. Clicking on the Show current processes link provides more detailed report.
 + __System Job status__ – This is an indicator of a system job status, located in the lower-left corner. Here you can:
@@ -25,6 +25,6 @@ Use the [Administration – Computers](#internal/) category to adjust the values
   + open the System Jobs dialog.
 
 It is not possible to edit nor save Session Dashboard as a dashboard template nor change the date range.
-It is however possible to [do this with the other dashboards](#internal/).
+It is however possible to [edit the other dashboards](#internal/how-to/dashboards/edit-dashboard).
 
-Users can also [create custom dashboards](#internal/) that will better meet their needs.
+Users can also [create custom dashboards](#internal/how-to/dashboards/create-custom-dashboard) that will better meet their needs.

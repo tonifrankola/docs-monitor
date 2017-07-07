@@ -12,7 +12,7 @@ When you install and open SysKit Monitor for the first time, there will be no da
 
 Computers can also be added from the __Administration – Computers__ category by selecting the __Add__ button from the upper ribbon.
 
-See [Administration](#internal/) article to learn more about managing computers.
+See [Administration](#internal/get-to-know-syskit-monitor/administration/servers-and-groups) article to learn more about managing computers.
 
 If you want to monitor only a single server only that is a part of a workgroup or Windows domain but __not AD-integrated__, please navigate to the Administration tab and click the arrow below the Add button in the upper ribbon, and then click __Add Computer Manually__.
 
@@ -52,7 +52,7 @@ Another way to define your subscription is to access it through the main report 
 
 The [Sessions Dashboard](#internal/get-to-know-syskit-monitor/dashboards/sessions-dashboard) is shown at the start of the SysKit Monitor application. It enables you to see live data, such as the number of sessions in progress, and the number of currently running sessions, processes, and computer states.
 
-You can also [create your own dashboards](#internal/) by accessing __My Dashboards__ in the Dashboard panel and selecting __New__ from the ribbon.
+You can also [create your own dashboards](#internal/how-to/dashboards/create-custom-dashboard) by accessing __My Dashboards__ in the Dashboard panel and selecting __New__ from the ribbon.
 
 ## Step 6: Date Range filter
 

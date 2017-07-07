@@ -27,6 +27,6 @@ You can choose to connect SysKit with a SQL Server instance you have or you can 
 
 Once the installation is completed, the Configuration Wizard will start. If the wizard does not start automatically after installation, you can run it manually from: __Start > All Programs > SysKit Monitor > Configuration Wizard__.
 
-> __Please note!__ The SysKit Monitor web application can be installed on the same server as the desktop application or on a separate server. If you choose to install the web application separately, please read [this article](#internal/configuration-wizard/configure-monitor).
+> __Please note!__ The SysKit Monitor web application can be installed on the same server as the desktop application or on a separate server. If you choose to install the web application separately, please read [this article](#internal/installation-configuration/configuration-wizard/configure-monitor).
 
-Proceed to: [Configuration Wizard](#internal/configuration-wizard/configure-monitor).
+Proceed to: [Configuration Wizard](#internal/installation-configuration/configuration-wizard/configure-monitor).

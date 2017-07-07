@@ -42,14 +42,14 @@ You can use the following __Windows Server__ editions: __Windows Server 2008
 In order to run the SysKit Monitor, you need a database. The SysKit Monitor supports __SQL Server databases only__.
 You can use the following __SQL Server__ editions: __SQL Server 2008 – 2016__, all editions.
 We advise you to use the latest available SQL Server version and apply all the available Service Packs before installing our application.
-If you are moving your existing SQL server database to a new SQL server, please follow the instructions in [this article](#internal/).
+If you are moving your existing SQL server database to a new SQL server, please follow the instructions in [this article](#internal/how-to/move-database-to-new-server).
 
-See [SQL Permissions](#internal/) to learn more about SysKit Monitor SQL Server database requirements.
+See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more about SysKit Monitor SQL Server database requirements.
 
 If you __do not have an SQL Server instance__ installed in your server environment, the SysKit Monitor installation will offer to install the __SQL Server Express 2012 LocalDB__ (free license) automatically.
 
->### Learn more about the LocalDB
->__LocalDB__ is an instance of SQL Server Express that can create and open SQL Server databases. Once LocalDB is installed, the necessary SQL Server infrastructure is automatically created and started, enabling the application to use the database without complex configuration tasks.  
+> __Learn more about the LocalDB__   
+__LocalDB__ is an instance of SQL Server Express that can create and open SQL Server databases. Once LocalDB is installed, the necessary SQL Server infrastructure is automatically created and started, enabling the application to use the database without complex configuration tasks.  
 The system database files for the database are stored in the users’ local AppData path which is normally hidden.  
 For example __C:\Users\user\AppData\Local\SysKit Monitor\SysKit_database__.  
 User database files are stored where the user designates, typically somewhere in the __C:\Users\user\Documents__ folder.

@@ -21,12 +21,12 @@ You can also browse for existing local and network SQL Servers by clicking on th
 
 See [SQL Permissions](#internal/installation-configuration/sql-permissions) to learn more about SysKit Monitor SQL Server database requirements.
 
-If you plan to use the SysKit in a domain environment with an in-house SQL Server, we strongly __recommend__ choosing Windows authentication. Once you have entered the correct database information, click __Test Connection__ for verification. Click __Next >__ to proceed.
+If you plan to use the SysKit Monitor in a domain environment with an in-house SQL Server, we strongly __recommend__ choosing Windows authentication. Once you have entered the correct database information, click __Test Connection__ for verification. Click __Next >__ to proceed.
 
 3. In Step 3, you need to enter information about the Service Account that will be used for running the SysKit Monitor Service. This account will be used to gather data from your server(s). Enter the custom user account in the following format:
 __DOMAIN\USERNAME__ (or __MACHINE_NAME\USERNAME__ for workgroup scenarios).
 
-   > __Please note!__ The service user must be in the local admin group to proceed with this step. For more information about the service account configuration, read the [Add Service User to a Local Administrators Group via Group Policy](#internal/) article.
+   > __Please note!__ The service user must be in the local admin group to proceed with this step. For more information about the service account configuration, read the [Add Service User to a Local Administrators Group via Group Policy](#internal/how-to/service-accounts/add-service-user-group-policy) article.
 
    > __Please note!__ If the software is installed on a non-domain joined machine, the service account name should be entered in the following form: __machine_name\username__.
 
@@ -55,7 +55,7 @@ Once you have entered the correct database information, click __Test Connectio
 3. The next step summarizes the configuration settings that will be applied.
 4. Once the SysKit Monitor Web app is installed and configured, you can run the application and choose whether you want to participate in the Customer Experience Improvement Program.
 
-See the [SysKit Web Application](#internal/) article to learn more.
+See the [SysKit Monitor Web App](#internal/get-to-know-syskit-monitor/syskit-monitor-web-app) article to learn more.
 
 ### Problems with Installation and Configuration
 

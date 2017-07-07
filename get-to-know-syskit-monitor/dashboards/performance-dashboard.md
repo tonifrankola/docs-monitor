@@ -19,7 +19,7 @@ __Computer status indicators__ – provide important information about performan
 
 __Performance counter columns__ also have a small pop-up window that concisely describes the performance counter being pointed to. Common Performance Counters, such as CPU, Memory usage, Disk Free Space, Network Sent and Received, do not include the additional explanation.
 
-__Performance counter values__ on the dashboard __change colors__ depending on the defined thresholds, and the time period spent above these thresholds, which are configured through the [Monitoring Templates](#internal/) category on the Administration tab. When a cell is painted red (or yellow), it means that a threshold has been crossed for the associated performance counter. Red indicates a critical threshold, while yellow indicates a warning threshold.
+__Performance counter values__ on the dashboard __change colors__ depending on the defined thresholds, and the time period spent above these thresholds, which are configured through the [Monitoring Templates](#internal/get-to-know-syskit-monitor/administration/monitoring-templates) category on the Administration tab. When a cell is painted red (or yellow), it means that a threshold has been crossed for the associated performance counter. Red indicates a critical threshold, while yellow indicates a warning threshold.
 
 > __Please note!__ Values for Disk and Network performance counters are displayed for the __most critical__ Disk and Network Adapter on each computer.
 
