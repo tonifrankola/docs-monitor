@@ -35,12 +35,14 @@ Created PowerShell script can be scheduled to run on:
    + All computers;
    + Specific computers; or
    + Specific computer groups.
+
    > __Please note!__ Query results may vary depending on the PowerShell version used on a specific computer.
 
 6. In Step 6, you will need to specify the __conditions__ that will trigger the PowerShell script.  
 The following __schedule options__ are available:
    + __Manual only__—the script will be executed only when the __Run__ button is clicked.
    + __Automatic__—the script will be executed automatically on a __defined schedule__, which has two types: __Recurrence__ or __After another script__.
+   
    > __Tip!__ If the __Recurrence__ option is selected, you will be offered __several recurrence types__: one time, minutely, hourly, daily, weekly, monthly, and quarterly. Here, you can select the start date and time for the selected recurrence type.
 
    > __Tip!__ If the __After another script__ option is selected, you will be offered a drop-down menu that contains all PowerShell scripts available in SysKit. The script for which you configure the trigger will be executed after the script selected from the drop-down.
