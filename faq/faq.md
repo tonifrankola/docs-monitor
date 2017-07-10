@@ -59,4 +59,4 @@ The software is licensed per monitored servers, meaning that all the servers you
 Yes, SysKit Monitor comes as an IIS application as well, so you can access it through a web browser.
 
 ### Do you offer a free trial?
-Yes, we offer a fully featured 30-day trial. During those 30 days, you will receive all the support you need with the software. You can easily contact our [support team](https://www.syskit.com/support/contact-us/).
+Yes, we offer a [fully featured 30-day trial](https://www.syskit.com/downloads/). During those 30 days, you will receive all the support you need with the software. You can easily contact our [support team](https://www.syskit.com/support/contact-us/).

@@ -10,7 +10,7 @@ Blocking the IP address instead of the URL or domain name is more powerful, beca
 
 If you want to change these values, you can do so in **Options dialog**, in the **Extract Event Log** tab. When the block time expires, the IP address will be **unblocked automatically**. It is also possible to unblock the IP address manually.
 
-The **Blocked IP Addresses** report shows the list of blocked IP addresses via Windows Firewall rules. In order to see this report, you must enable and run [Extract Event Log](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) system job and [Public IP Fetching](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options).
+The **Blocked IP Addresses** report shows the list of blocked IP addresses via Windows Firewall rules. In order to see this report, you must enable and run [Extract Event Log](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#extract-event-log) system job and [Public IP Fetching](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#general).
 
 The report shows you the blocked IP address, date and exact time of the block, and date and exact time of the automatic unblock.
 

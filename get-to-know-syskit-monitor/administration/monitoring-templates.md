@@ -11,7 +11,7 @@ Performance Counters are the numeric data values that SysKit Monitor collects by
 SysKit Monitor provides a __Template Wizard__ for customization of performance counters collection. With the Template Wizard, you can discover and load the same performance counters that are accessible through Microsoft Performance Monitor.
 
 The Monitoring Template within SysKit Monitor is a collection of performance counters to be monitored, and it includes the associated rules and suggested threshold values to detect out-of-bounds conditions.  
-SysKit comes with a predefined set of Monitoring Templates for some of the most common server roles—including __SQL, IIS,__ and __SharePoint__—to quickly get you up and running with performance monitoring.
+SysKit comes with a [predefined set of Monitoring Templates](#internal/how-to/monitoring-templates/predefined-templates) for some of the most common server roles—including __SQL, IIS,__ and __SharePoint__—to quickly get you up and running with performance monitoring.
 
 SysKit Monitor can request the current value of performance counters at a specified interval. The default performance counters __collection interval__ is set to 60 seconds.
 

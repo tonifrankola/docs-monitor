@@ -21,7 +21,7 @@ Its features include:
 
 You can use PowerShell scripts to retrieve valuable information about a server’s configuration, usage, or performance. With SysKit, you can easily export the results and retrieved information to a PDF or.xlsx file, so that you can view it again later.
 
-> __Please note!__ In order to see the PowerShell Reports it is necessary to configure [Inventory Snapshots](#internal/) system job. The report data will be available after Inventory Snapshots system job execution.
+> __Please note!__ In order to see the PowerShell Reports it is necessary to configure [Inventory Snapshots](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#inventory-snapshots) system job. The report data will be available after Inventory Snapshots system job execution.
 
 ### Enhance your reporting using PowerShell Wizard
 
@@ -35,7 +35,7 @@ We’ll break down how you can create custom information reports in SysKit using
 
 1. In Step 1, simply enter the PowerShell script or report name and select the desired report category. The report category option will help you categorize your reports so you can manage large amounts of different scripts more easily.
 2. In Step 2, you will need to enter the PowerShell script you want to use to generate reports. To avoid incorrectly generated reports, the script first needs to be tested on a selected computer. SysKit will run it against the computer that you specify. After entering script, click Next> to see the results.
-   > __Please note!__ If you have troubles with writing script, or you want to know more about PowerShell rules and limitations, please read [this article](#internal/).
+   > __Please note!__ If you have troubles with writing script, or you want to know more about PowerShell rules and limitations, please read [this article](https://technet.microsoft.com/en-us/library/bb978526.aspx).
 
 3. In Step 3, if the script syntax is valid, it will return the results in a grid view. Data that is shown is collected by executing a specified query on the selected computer. You will be able to examine and refine properties in the next step. Please verify whether the query returned the desired data and continue to the next step.
    > __Please note!__ The approximate size of the query result can wary depending on the entered script purpose. Take into consideration that large query results can significantly increase server resource utilization.
@@ -43,7 +43,7 @@ We’ll break down how you can create custom information reports in SysKit using
    > __Please note!__ If an entered PowerShell query is returned without results after validation in PowerShell wizard, it cannot be saved.
 
 4. In Step 4, you will need to select columns that you want to include in your report and specify unique columns to be used in Snapshots Compare. You can use drag and drop to arrange the rows in the order in which you would like them to appear as columns in the report. You can also use the search box to find and include the desired column(s).
-   > __Please note!__ Identity columns must __unambiguously__ define each row of data. If that’s not the case, your data will still be collected, but the report won’t be __comparable__ in [Compare Wizard](#internal/).
+   > __Please note!__ Identity columns must __unambiguously__ define each row of data. If that’s not the case, your data will still be collected, but the report won’t be __comparable__ in [Compare Wizard](#internal/get-to-know-syskit-monitor/reports/inventory-reports/compare-wizard).
 
 5. In Step 5, you will need to select computers on which you want to run the PowerShell script.  
 Created PowerShell script can be scheduled to run on:
@@ -53,7 +53,7 @@ Created PowerShell script can be scheduled to run on:
 
    > __Please note!__ Query results may vary depending on the PowerShell version used on a specific computer.
 
-Reports will be added to the __Inventory Reports > PowerShell Reports__ group and all of their data can be compared in [Compare Wizard](#internal/).
+Reports will be added to the __Inventory Reports > PowerShell Reports__ group and all of their data can be compared in [Compare Wizard](#internal/get-to-know-syskit-monitor/reports/inventory-reports/compare-wizard).
 
 #### PowerShell Reports Ribbon
 

@@ -17,7 +17,7 @@ In the Backstage Help screen, you can learn more about SysKit Monitor with infor
 
 ## Help
 
-To get help with any issues or if you have any questions for us about using SysKit Monitor, click **Help**. This will take you to our [help page](#internal/), where you can browse topics and get additional information on:
+To get help with any issues or if you have any questions for us about using SysKit Monitor, click **Help**. This will take you to our [help page](https://docs.syskit.com/monitor/v8/), where you can browse topics and get additional information on:
 
 * FAQ
 * Requirements
@@ -65,7 +65,7 @@ In SysKit Monitor, the __Customer Experience Improvement Program__ is, by defaul
 
 When you exit the SysKit Monitor application, we gather the minimum amount of data about feature usage to see which SysKit Monitor features our customers use the most, so we can make them even better.
 
-Please note that the data about feature usage gathered in Customer Experience Improvement Program does not include the content of your reports. Find out more about our privacy policy [here](https://acceleratio.net/privacy-policy/).
+Please note that the data about feature usage gathered in Customer Experience Improvement Program does not include the content of your reports. Find out more about our [privacy policy](https://acceleratio.net/privacy-policy/).
 
 ## Check for Updates
 

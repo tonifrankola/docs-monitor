@@ -21,9 +21,9 @@ This tutorial will provide everything you need to know about these great feature
 
 The **Services report** is available in the [Inventory Reports – Software](#internal/get-to-know-syskit-monitor/reports/inventory-reports/hardware-and-software) category. This report will help you easily monitor all services that are installed and running on your local and remote computers. It gives you detailed information about services, such as **Display Name**, **Status**, **Startup Type**, **Logon Account** that is used to start the service and **Description**. The values shown on the Services report are updated every **30 seconds**.
 
-When a computer is added to the monitoring, SysKit Monitor collects a full list of services installed on it and displays them as important on the Manage Services dialog. You can configure the important services manually, by selecting the desired services for each computer.
+When a computer is added to the monitoring, SysKit Monitor collects a full list of services installed on it. You can configure the important services through the [Monitoring Templates](#internal/get-to-know-syskit-monitor/administration/monitoring-templates) category. Afterwards, assign the newly created Monitoring Template to designated computers or computer groups.
 
-Services that are selected as important, for a designated computer, and configured to be monitored, are displayed in the [Overview report](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance) under **Monitored Services**.
+Services that are selected as important, for a designated computer, and configured to be monitored, are displayed in the [Overview report](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance) under **Monitoring Templates > Monitored Services**.
 
 Depending on the options you configure in the **Monitoring Template** which is assigned to a computer, SysKit Monitor can send you **e-mail notifications** when one or more important services are **`stopped`** and can perform **automatic service restarts**. It will also tell you whether it has been successful or not.
 

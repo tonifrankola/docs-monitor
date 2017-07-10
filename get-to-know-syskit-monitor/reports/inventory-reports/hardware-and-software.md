@@ -16,7 +16,7 @@ With the Inventory Snapshots __Compare Wizard__, you can compare snapshots taken
 
 The purpose of the Inventory Snapshots is to display the snapshots for all scans performed over a period of time on your Windows Servers and workstations and to allow the __snapshot comparison__. The Compare Wizard allows you to compare the collected inventory data, which includes CPU, RAM, available hard disk space, installed programs and Windows updates, local administrators on the servers, etc.
 
-> __Please note!__ In order to see the [Inventory Reports](#internal/) it is necessary to configure Inventory Snapshots system job. The report data will be available after Inventory Snapshots system job execution.
+> __Please note!__ In order to see the Inventory Reports it is necessary to configure [Inventory Snapshots](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#inventory-snapshots) system job. The report data will be available after Inventory Snapshots system job execution.
  
 ## Hardware
 
@@ -56,4 +56,4 @@ Use the __Snapshots__ part of the Inventory reports ribbon to take the following
 + __Manage Snapshots__ – View and manage all your snapshots from one dialog. This includes loading, deleting, comparing, and marking the selected configuration(s) as good.
 + __Configure Snapshots__ – Configure the collection of Inventory Snapshots. Choose when the snapshots will be created, and which data will be collected and compared.
 
-See the article on the [Compare Wizard](#internal/) to learn how to keep track of inventory changes and compare differences over time.
+See the article on the [Compare Wizard](#internal/get-to-know-syskit-monitor/reports/inventory-reports/compare-wizard) to learn how to keep track of inventory changes and compare differences over time.
