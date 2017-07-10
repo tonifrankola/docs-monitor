@@ -6,7 +6,7 @@ date: 29/6/2017
 ---
 This article explains how to configure report subscriptions. 
 
-In order to be able to schedule a report first you need to [configure E-mail settings](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options).
+In order to be able to schedule a report first you need to [configure E-mail settings](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#send-e-mails).
 
 1. Open the report you want to subscribe to and click on the **Schedule This Report** button from the **Reports** ribbon.
 2. In the **New Subscription** dialog, enter the following information:
@@ -35,4 +35,4 @@ In order to be able to schedule a report first you need to [configure E-mail set
     * change the report layout
 5. Click __Save & Close__ to finish creating this subscription.
 
-See [Configure Send E-mails system job](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) and [Manage Subscriptions](#internal/get-to-know-syskit-monitor/backstage-screen/manage-data-gathering) to learn more.
+See [Configure Send E-mails system job](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#send-e-mails) and [Manage Subscriptions](#internal/get-to-know-syskit-monitor/backstage-screen/manage-data-gathering/#manage-subscriptions) to learn more.

@@ -6,7 +6,7 @@ Date: 29/06/17
 ---
 > __Please note!__ If you have more than 100 servers, or geographically distributed servers, it is recommended that you use SysKit Monitor Data Collector. Please contact our support team, which will provide you with detailed instructions and a setup file.
  
-After you [install Data Collectors](#internal/how-to/manage-data-collector/install-syskit-data-collector) on the desired computers and configure them to the same database as the SysKit Monitor application on the central computer, the __Manage Data Collectors__ dialog will appear on the Administration tab. Another way to access Data Collectors is by navigating to the __File__ tab, selecting __Manage__ from the left navigation bar, and then clicking __Data Collectors__.
+After you [install Data Collectors](#internal/installation-configuration/install-wizard/install-agent) on the desired computers and configure them to the same database as the SysKit Monitor application on the central computer, the __Manage Data Collectors__ dialog will appear on the Administration tab. Another way to access Data Collectors is by navigating to the __File__ tab, selecting __Manage__ from the left navigation bar, and then clicking __Data Collectors__.
 
 The Manage Data Collectors dialog contains the list of data collectors installed and running on the servers in your environment. Use this dialog to configure each Data Collector according to your preferences and they will gather data as configured.  
 Here you can see the Data Collector name, its status, when it was last seen online, and the Data Collector service version.
