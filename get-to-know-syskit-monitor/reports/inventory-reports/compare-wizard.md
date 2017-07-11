@@ -94,10 +94,10 @@ __Report data (entry) level__
    + __Source Computer__ – Use the left panel to select the Source computer from the snapshot and compare it to the Target computer selected on the same or a different snapshot.
    + __Target Computer__ – Use the right panel to select the Target computer from the snapshot and compare it to the Source computer selected on the same or a different snapshot.
 
-Now we will go back to the __Computer Compare Subtype__ step and proceed with the second option – __Compare computers within selected views__.
-
+Now we will go back to the __Computer Compare Subtype__ step and proceed with the second option – __Compare computers within selected views__.  
 In this step you need to choose the __Source__ and __Target Views__ to compare differences between these two selected system environments.
 
+{:start="3"}
 3. The Step 3, enables you to select __one or two different snapshots__ to compare inventory data on different system environments.
 
 4. In Step 4, you will need to __define mappings__ for different computers within the __views__.  

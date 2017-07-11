@@ -1,5 +1,5 @@
 ---
-title: Edit Dashboard
+title: Edit Dashboards
 description: This article explains how to edit dashboard reports and format metrics.
 author: Andrea Budisa
 date: 29/6/2017

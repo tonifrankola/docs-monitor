@@ -44,7 +44,7 @@ You can use the following __SQL Server__ editions: __SQL Server 2008 – 2016__,
 We advise you to use the latest available SQL Server version and apply all the available Service Packs before installing our application.
 If you are moving your existing SQL server database to a new SQL server, please follow the instructions in [this article](#internal/how-to/move-database-to-new-server).
 
-See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more about SysKit Monitor SQL Server database requirements.
+See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions/create-sql-login) to learn more about SysKit Monitor SQL Server database requirements.
 
 If you __do not have an SQL Server instance__ installed in your server environment, the SysKit Monitor installation will offer to install the __SQL Server Express 2012 LocalDB__ (free license) automatically.
 

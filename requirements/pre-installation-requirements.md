@@ -27,7 +27,7 @@ If you are running the SysKit in a domain environment, we strongly recommend usi
 
 If you plan to use Windows authentication, we recommend using our Configuration Wizard to create and configure the SysKit database. The Active Directory (Windows service) user running the configuration wizard needs to have __dbcreator__ and __securityadmin__ privileges on the SQL Server to create and configure the database.
 
-See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more about SysKit Monitor SQL server database requirements.   
+See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions/create-sql-login) to learn more about SysKit Monitor SQL server database requirements.   
 If you cannot obtain such privileges, install the SysKit Monitor database __manually__ (or your DBA will create a DB).
 
 ___
@@ -41,7 +41,7 @@ You need to create an empty database that will be used to store the SysKit Monit
 5. On the __Options__ page, choose __Simple__ as the __Recovery Model__.
 6. Click __OK__ to create a new database.
 
-> __Please note!__ The service user that will be used for running the SysKit Monitor Service needs to have __db_owner__ membership assigned on the newly created database. See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more.
+> __Please note!__ The service user that will be used for running the SysKit Monitor Service needs to have __db_owner__ membership assigned on the newly created database. See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions/connect-existing-db-privileges) to learn more.
 
 Proceed to: [Installation Guide](#internal/installation-configuration/install-wizard/install-monitor).
 
@@ -65,8 +65,6 @@ To use SQL Server authentication instead of Windows authentication please do the
 8. Expand the __Security folder__ and then the Users folder.
 9. If the Login name you created in step 3. is not in the __Users__ list, right-click the __Users__ folder and click __New user__. In the __Username__ and __Login__ name enter the same Login name from step 3.
 10. Select __Membership__ page, give user __db_owner__ role and click __OK__.
-
-See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more about SysKit Monitor SQL Server database requirements.
 
 ## Install SysKit Monitor
 

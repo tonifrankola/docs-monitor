@@ -140,7 +140,9 @@ Turn this system job on if you want to collect auditing of the files and folders
 
 * Set the **Period** for how often this job will be executed.
 
-See [Audit Events](#internal/how-to/audit-events) category to learn more on how to enable and configure this feature to work.
+See [How to Enable Folder Auditing](#internal/how-to/audit-events/enable-folder-auditing) to learn more.  
+See [How to Configure Audit Logon Events](#internal/how-to/audit-events/configure-audit-logon-events) to learn more.  
+See [How to Configure Server to support Block Malicous IP Addresses feature](#internal/how-to/audit-events/configure-block-malicious-ip-addresses-feature) to learn more.
 
 ## Concurrent Usage
 
@@ -220,4 +222,4 @@ However, we have calculated that the best value and accuracy rate is the default
    * Verbose event logging – The Windows Event Viewer will list in detail every event that usually cannot be viewed.
    * Database service log sources SysKit Monitor Service will write entries for the specified sources into the product database. The drop-down menu contains the following sources: Analyzer, Performance Counters, System Jobs, and PowerShell.
 
-   The verbose event logging warning will show if any of the available options have been enabled, because a lot of entries could be written into the Windows Event Viewer and product database.
+  The verbose event logging warning will show if any of the available options have been enabled, because a lot of entries could be written into the Windows Event Viewer and product database.

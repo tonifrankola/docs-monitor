@@ -19,9 +19,9 @@ You can also browse for existing local and network SQL Servers by clicking on th
     + Windows Authentication (make sure that the service account used for configuration has the proper privileges on the SQL Server).
     + SQL Authentication (make sure that SQL authentication is enabled on the SQL Server and the account has the proper privileges on the SQL Server).
 
-See [SQL Permissions](#internal/installation-configuration/sql-permissions) to learn more about SysKit Monitor SQL Server database requirements.
+   See [SQL Permissions](#internal/installation-configuration/sql-permissions/create-sql-login) to learn more about SysKit Monitor SQL Server database requirements.
 
-If you plan to use the SysKit Monitor in a domain environment with an in-house SQL Server, we strongly __recommend__ choosing Windows authentication. Once you have entered the correct database information, click __Test Connection__ for verification. Click __Next >__ to proceed.
+   If you plan to use the SysKit Monitor in a domain environment with an in-house SQL Server, we strongly __recommend__ choosing Windows authentication. Once you have entered the correct database information, click __Test Connection__ for verification. Click __Next >__ to proceed.
 
 3. In Step 3, you need to enter information about the Service Account that will be used for running the SysKit Monitor Service. This account will be used to gather data from your server(s). Enter the custom user account in the following format:
 __DOMAIN\USERNAME__ (or __MACHINE_NAME\USERNAME__ for workgroup scenarios).

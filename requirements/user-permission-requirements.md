@@ -32,7 +32,7 @@ There are two ways to add a service user to the Local Administrators security gr
 
 If you plan to use Windows authentication, we recommend using our Configuration Wizard to create and configure the SysKit Monitor database. The Active Directory (Windows service) user running the configuration wizard needs to have __dbcreator__ and __securityadmin__ privileges on the SQL Server to create and configure the database.
 
-See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more about SysKit SQL server database requirements.   
+See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions/create-sql-login) to learn more about SysKit SQL server database requirements.   
 See [Configure](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/configure) article to learn more on how to change the Service Account or SysKit Monitor database.
 
 Proceed to: [Pre-Installation Requirements](#internal/requirements/pre-installation-requirements).

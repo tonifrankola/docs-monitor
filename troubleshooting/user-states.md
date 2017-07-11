@@ -7,7 +7,7 @@ Date: 29/06/17
 ### How long does a person have to be inactive on a computer before the idle time starts to accumulate?
 
 The system is set by default to report the user’s state as idle after __five minutes__ of inactivity. It is possible to change that default period by navigating to the __File__ tab, selecting __Configuration__ from the left navigation bar, and then clicking on the __Options__ button.  
-On the [General](#internal/troubleshooting/user-states/options) tab, you can change the period after which user’s state will be reported as __Idle__.
+On the [General](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options) tab, you can change the period after which user’s state will be reported as __Idle__.
 
 ### Is SysKit Monitor logging a session even if the user is inactive or disconnected?
 #### Problem:

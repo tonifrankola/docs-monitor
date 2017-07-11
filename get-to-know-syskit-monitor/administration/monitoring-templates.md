@@ -26,7 +26,7 @@ You can create Monitoring Templates to monitor various performance metrics on sp
 Read this article to learn more on how to:
 ## [Enhance your monitoring using Template Wizard](#internal/how-to/monitoring-templates/template-wizard)
 
-All Monitoring Template(s) that are __assigned to the monitored computer(s)__ can be viewed and explored in the [Overview](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance) and [Detailed Analysis](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance) reports.
+All Monitoring Template(s) that are __assigned to the monitored computer(s)__ can be viewed and explored in the [Overview](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance) and [Detailed Analysis](#internal/get-to-know-syskit-monitor/reports/performance-reports/computer-performance/#detailed-analysis) reports.
 
 > __Tip!__ In cases where an SQL template has been applied to a server with __named SQL Server instances installed__, no data will be collected for those instances. You need to create a new template by adding performance counters for each instance you wish to monitor, while following the naming convention.
  

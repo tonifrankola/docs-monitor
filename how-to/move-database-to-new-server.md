@@ -21,4 +21,4 @@ Please follow these steps to move a SQL Server database to another location:
 er.
 13. Click __Finish__.
 
-See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions) to learn more about SysKit Monitor SQL server database requirements.
+See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions/create-sql-login) to learn more about SysKit Monitor SQL server database requirements.

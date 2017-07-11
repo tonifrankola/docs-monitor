@@ -40,7 +40,7 @@ You can write a simple plain SQL statement using common keywords, with or withou
    There is one more specific option related to parameters, you can use predefined parameters **@StartedOn** and **@EndedOn** to populate the **Date Range** filter. They are used in the same way as custom defined parameters. Only difference is that in third step you can choose to populate them from the Date Range filter. If you do not wish to do so, you can use them as your own custom parameters.
 
    Perform steps described above for each detected parameter and proceed to the next step.  
-   Close the Custom Report Wizard by clicking the **Finish** button.
+4. Close the Custom Report Wizard by clicking the **Finish** button.
 
 ### Get to know your Custom Report
 
@@ -77,8 +77,8 @@ For parameters **@LastUpdated** and **@LoggingEnabled** set specific value as de
 Parameter **@TerminalServerIDs** is somewhat different as it should represent collection of target server IDs. As such it will be populated from the filter.
 
 1. Select the **@TerminalServerIDs** entry from the **Detected Parameters** part.
-2. Choose the option **Select from filter** from the Details part
-3. Since we want filter by specific servers, select the **Servers** entry from the **Filter**
+2. Choose the option **Select from filter** from the Details part.
+3. Since we want filter by specific servers, select the **Servers** entry from the **Filter**.
 4. Select names of target servers in **Values** and proceed to the next step.  
 5. Close the Custom Report Wizard by clicking the **Finish** button.
 

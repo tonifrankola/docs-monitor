@@ -28,6 +28,8 @@ private: true
 # Computers
 ## [Add/Remove or Delete Computer from Monitoring](add-remove-or-delete-computer.md)
 
+# [Performance Counters Management](performance-counters-management.md)
+
 # Monitoring Templates
 ## [Predefined Monitoring Templates](predefined-templates.md)
 ## [Template Wizard](template-wizard.md)
@@ -59,4 +61,3 @@ private: true
 # [Manage Data Collector](manage-data-collector.md)
 # [Move database to new server](move-database-to-new-server.md)
 # [Exclude installation folder from antivirus scanning](exclude-installation-folder-from-antivirus-scanning.md)
-# [Performance Counters Management](performance-counters-management.md)

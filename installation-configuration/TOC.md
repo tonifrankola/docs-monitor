@@ -6,7 +6,7 @@ private: true
 
 # Install Wizard
 ## [Install SysKit Monitor](install-monitor.md)
-## [Install SysKit Monitor Agent](install-agent.md)
+## [Install SysKit Monitor Data Collector](install-agent.md)
 
 # Configuration Wizard
 ## [Configure SysKit Monitor](configure-monitor.md)

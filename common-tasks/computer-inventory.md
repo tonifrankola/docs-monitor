@@ -46,4 +46,4 @@ Use the [Compare Wizard](#internal/get-to-know-syskit-monitor/reports/inventory-
 
 Under Options, you can set up [alert notifications](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options/#alerts). These are sent to you via email if and when differences are detected after SysKit has finished running the automatic Inventory Snapshot.
 
-See [Inventory Reports](#internal/get-to-know-syskit-monitor/reports/inventory-reports) article to learn more.
+See [Inventory Reports](#internal/get-to-know-syskit-monitor/reports/inventory-reports/hardware-and-software/) article to learn more.

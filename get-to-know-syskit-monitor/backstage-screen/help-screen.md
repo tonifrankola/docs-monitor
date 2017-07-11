@@ -17,7 +17,7 @@ In the Backstage Help screen, you can learn more about SysKit Monitor with infor
 
 ## Help
 
-To get help with any issues or if you have any questions for us about using SysKit Monitor, click **Help**. This will take you to our [help page](https://docs.syskit.com/monitor/v8/), where you can browse topics and get additional information on:
+To get help with any issues or if you have any questions for us about using SysKit Monitor, click **Help**. This will take you to our [help page](https://docs.syskit.com/monitor/), where you can browse topics and get additional information on:
 
 * FAQ
 * Requirements
