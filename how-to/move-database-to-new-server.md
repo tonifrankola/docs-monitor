@@ -17,8 +17,7 @@ Please follow these steps to move a SQL Server database to another location:
 9. Uncheck the __Use the same settings and upgrade__ option.
 10. Use the __existing database__ and locate the new SQL server and the old database.
 11. Type in the new SQL Server instance and the database name.
-12. On the next screen, type in the service user that has same permissions as the old service us
-er.
+12. On the next screen, type in the service user that has same permissions as the old service user.
 13. Click __Finish__.
 
 See [SQL Permissions](#internal/installation-configuration/configuration-wizard/sql-permissions/create-sql-login) to learn more about SysKit Monitor SQL server database requirements.

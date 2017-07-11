@@ -28,8 +28,6 @@ private: true
 # Computers
 ## [Add/Remove or Delete Computer from Monitoring](add-remove-or-delete-computer.md)
 
-# [Performance Counters Management](performance-counters-management.md)
-
 # Monitoring Templates
 ## [Predefined Monitoring Templates](predefined-templates.md)
 ## [Template Wizard](template-wizard.md)
@@ -58,6 +56,7 @@ private: true
 ## [Configure SysKit for Citrix XenApp 5 Published Application monitoring](monitor-citrix-xenapp5-published-applications.md)
 ## [Configure SysKit for Citrix XenApp 6.0/6.5 Published Application monitoring](monitor-citrix-xenapp6-published-applications.md)
 
+# [Performance Counters Management](performance-counters-management.md)
 # [Manage Data Collector](manage-data-collector.md)
 # [Move database to new server](move-database-to-new-server.md)
 # [Exclude installation folder from antivirus scanning](exclude-installation-folder-from-antivirus-scanning.md)

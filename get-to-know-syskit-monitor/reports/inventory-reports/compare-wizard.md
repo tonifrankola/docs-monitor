@@ -97,12 +97,11 @@ __Report data (entry) level__
 Now we will go back to the __Computer Compare Subtype__ step and proceed with the second option – __Compare computers within selected views__.  
 In this step you need to choose the __Source__ and __Target Views__ to compare differences between these two selected system environments.
 
-{:start="3"}
-3. The Step 3, enables you to select __one or two different snapshots__ to compare inventory data on different system environments.
++ The Step 3, enables you to select __one or two different snapshots__ to compare inventory data on different system environments.
 
-4. In Step 4, you will need to __define mappings__ for different computers within the __views__.  
++ In Step 4, you will need to __define mappings__ for different computers within the __views__.  
 For example, if you know that server A, from farm A and server B from farm B must be similar, you can map the FQDN names so every difference related to the name of the server won’t be displayed on the report.
 
    > __Please note!__ The current version of SysKit supports only __one-to-one__ server mapping!
 
-5. The Step 5, __automatically starts the Compare Result__ dialog which will display all inventory changes according to previously defined mappings, and depending on what is selected at the Snapshot Selection step, it will show one or two different snapshots.
++ The Step 5, __automatically starts the Compare Result__ dialog which will display all inventory changes according to previously defined mappings, and depending on what is selected at the Snapshot Selection step, it will show one or two different snapshots.
