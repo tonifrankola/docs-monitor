@@ -49,4 +49,4 @@ To remove your current SysKit Monitor license key and add a new license key, ple
 4. Click __OK__.
 5. Enter the new product key and click Activate.
 
-You will find your new license key at your profile in our [Customers Portal](https://customers.acceleratio.net/).
+You will find your new license key at your profile in our [Customers Portal](https://my.syskit.com).
