@@ -1,5 +1,5 @@
 ---
-title: Editions
+title: Activation FAQ
 description: This article outlines frequently asked questions regarding the SysKit Monitor activation.
 author: Andrea Budisa
 date: 24/5/2017

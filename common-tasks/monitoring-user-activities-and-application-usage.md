@@ -19,7 +19,7 @@ Second, monitoring a **user’s application usage** provides data such as the **
 * Where can I track which user used a specific application as well as when and for how long the user used it?
 * Where can I view the number of concurrent application instances for a specific application per day?
 
-## What's the difference between the active, idle and disconnected states?
+### What's the difference between the active, idle and disconnected states?
 
 We track four different states while a user is connected to a remote server. The user is in the active state while there is keyboard or mouse activity. After five minutes (this can be easily changed in **File** > **Configuration** > **Options**) of inactivity, the user state changes to idle. 
 

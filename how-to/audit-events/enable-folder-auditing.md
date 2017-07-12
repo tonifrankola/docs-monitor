@@ -55,3 +55,5 @@ There are two methods of applying group policy. Login on to your Domain Controll
 ### Configuring SysKit Monitor
 
 You need to enable collection of event log data under **File** > **Manage** > **System Jobs** and you are good to go. SysKit Monitor will start to collect audit information from the Event Log on a regular basis.
+
+See the [Extract Event Log](#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options#extract-event-log) article for more detailed information.

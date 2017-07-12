@@ -70,7 +70,7 @@ This section describes how to configure System Jobs in SysKit Monitor. System Jo
 
 The following System Jobs are available:
 
-### Send e-mails 
+## Send e-mails 
 
 This section describes **Send E-mails** system job and how to configure all of the settings.
 
