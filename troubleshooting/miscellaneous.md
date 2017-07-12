@@ -23,7 +23,7 @@ If you select Concurrent Users per Day, you will see the usage of the farm for e
 ### I am having problems running the application when User Access Control (UAC) is enabled.
 
 1. Locate the SysKit Monitor installation directory in Program Files and find the __SysKitMonitor.exe__.   
-(usually: C:/Program Files/SysKit/SysKit Monitor/ or C:/Program Files (x86)/SysKit/SysKit Monitor/)
+(usually: C:/Program Files/SysKit/Monitor/)
 2. Create a shortcut of that file on the desktop.
 3. Execute the application by right-clicking and choosing __Run as administrator__.
 4. UAC will prompt you to run as admin, and SysKit Monitor will start initializing.
@@ -48,7 +48,7 @@ This means that SysKit Monitor is using the SQL Server with the Windows integrat
 The application will work on both the console and the RDP/ICA session.  
 Alternatively you can use the SysKit Monitor from your workstation if you wish to. In this case, you don’t need to open the session to the server. The workstation needs to be on the same subnet as the SQL Server, because the application will contact the SQL Server for data.
 
-To configure the admin console on the workstation, copy the installation folder of the application (the default is in C:/Program files/SysKit/SysKit Monitor/ or c:/Program Files (x86)/SysKit/SysKit Monitor). Then create a shortcut on the desktop that will point to __SysKitMonitor.exe.__
+To configure the admin console on the workstation, copy the installation folder of the application (the default is in C:/Program files/SysKit/Monitor/). Then create a shortcut on the desktop that will point to __SysKitMonitor.exe.__
 
 If you are using the same user account on the workstation as on the RD/XenApp server, the application will work fine. However, if the user is different, you will need to allow that user read/write privileges on the SysKit Monitor database on the SQL Server.
 

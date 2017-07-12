@@ -40,3 +40,5 @@ In that case you will have to change the default port number:
 2. Expand the Sites List, select the SysKitMonitorApp, and in the Actions pane, click **Bindings**.
 3. Select the site binding you want to change the port number for and click on the **Edit** button.
 4. Change the default port number to the next available number and click OK to apply the changes.
+
+If you want give access to SysKit Monitor (desktop and web app) to users who haven’t connected previously to the monitored computers, check [this article](#internal/how-to/users/add-users-manually).

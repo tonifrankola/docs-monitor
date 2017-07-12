@@ -28,7 +28,7 @@ In order for monitoring to be successful, these are the steps you will have to p
 
 Your Citrix Management Server is now configured for the SysKit Monitor Published Applications monitoring.
 
-__In case of any difficulties during the configuration feel free to [contact](https://www.syskit.com/support/contact-us/) our support team__.
+__In case of any difficulties during the configuration feel free to [contact](https://www.syskit.com/contact) our support team__.
 
 See [Configure SysKit Monitor for Citrix XenApp 5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications) to learn more.  
 See [Monitor Citrix Published Applications](#internal/how-to/citrix-xenapp/monitor-citrix-published-applications) to learn more.

@@ -4,6 +4,8 @@ description: This article explains how to add users manually.
 author: Andrea Budisa
 date: 29/6/2017
 ---
+> __Please note!__ SysKit Monitor desktop and web app __permissions__ can only be managed through the desktop app.
+
 1. Navigate to the **File** > **Manage** > **Users and Groups**.
 2. Click the arrow by the **Grant Access** button on the toolbar and choose **Grant Access Manually**.
 3. **The Edit User Data** dialog will open. Fill in all the required information and check the following options according to your preferences:

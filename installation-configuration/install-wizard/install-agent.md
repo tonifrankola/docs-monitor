@@ -9,7 +9,7 @@ date: 30/5/2017
 1. Run the __SysKitMonitorDataCollector.exe__.
 2. Click __Next >__ to continue with the installation.
 3. Click __I Accept the terms of the license agreement__ to accept the license and then click Next > to proceed.
-4. Select the destination folder for the application installation files.
+4. Select the destination folder for the application installation files, e.g., C:\Program Files\SysKit\Monitor Data Collector. Click __Next >__ to proceed.
 5. Enter the same __Database Server__ and __Database Name__ that you previously used in the application's [Configuration Wizard](#internal/installation-configuration/configuration-wizard/configure-monitor). If you use SQL Authentication, provide username and password details.
 6. Provide the service account credentials.
 7. Click __Finish__ to complete the SysKit Monitor Data Collector install wizard.

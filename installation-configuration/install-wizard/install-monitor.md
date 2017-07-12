@@ -16,7 +16,7 @@ To install the SysKit Monitor, proceed with the following steps:
 2. Unpack and run the __SysKitSetup.exe__. The wizard will guide you through the installation steps; click __Next >__ to proceed.
 3. Click __I Accept the terms of the license agreement__ to accept the license and then click __Next >__ to proceed.
 4. This step allows you to choose the program features that you want to install and change how a feature is installed. The default option is set to install the __SysKit desktop application__ only, but you can choose to install __both__ the __desktop__ and the __web__ feature. Before proceeding, please read the [System Requirements](#internal/requirements/system-requirements). Click __Next >__ to proceed.
-5. Choose the installation folder, e.g., C:\Program Files\SysKit\SysKit Monitor. Click __Next >__ to proceed.
+5. Select the destination folder for the application installation files, e.g., C:\Program Files\SysKit\Monitor. Click __Next >__ to proceed.
 6. You can change the folder name where the application shortcuts will be created and modify the availability option to install the SysKit for __All users__ or __Only for the current user__. Click __Next >__ to proceed.
 7. The following step about the installation method will appear if you don’t have a Microsoft SQL Server instance on this particular machine.  
 The __Quick Install__ option is recommended in cases where you have from 10 to a maximum of 20 servers. It is the quickest option. We take care of the configuration.  
