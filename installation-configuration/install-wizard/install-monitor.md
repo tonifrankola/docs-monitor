@@ -12,7 +12,7 @@ Our application just needs to be installed on a single server, which will then b
 
 To install the SysKit Monitor, proceed with the following steps:
 
-1. [Download](https://www.syskit.com/downloads/) the newest release.
+1. [Download](https://www.syskit.com/products/monitor/download) the newest release.
 2. Unpack and run the __SysKitSetup.exe__. The wizard will guide you through the installation steps; click __Next >__ to proceed.
 3. Click __I Accept the terms of the license agreement__ to accept the license and then click __Next >__ to proceed.
 4. This step allows you to choose the program features that you want to install and change how a feature is installed. The default option is set to install the __SysKit desktop application__ only, but you can choose to install __both__ the __desktop__ and the __web__ feature. Before proceeding, please read the [System Requirements](#internal/requirements/system-requirements). Click __Next >__ to proceed.

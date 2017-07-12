@@ -23,7 +23,7 @@ If you have sufficient number of licenses, you can add another computer to monit
 
 1. To add new computers click **Add** in the Administration ribbon and then select the **Add Computers** option from the dropdown menu.
 2. The first step of this wizard will open. Select at least one **Organization Unit** and click **Next >** to proceed with this wizard.
-3. A list of all computers from the **Active Directory** will be displayed. Select at least one computer to proceed to the next step. This wizard screen also shows the number of remaining monitoring licenses. You must have enough licenses to add the computer for monitoring, please [contact us](https://www.syskit.com/contact) to add additional licenses. Click **Next >** proceed.
+3. A list of all computers from the **Active Directory** will be displayed. Select at least one computer to proceed to the next step. This wizard screen also shows the number of remaining monitoring licenses. You must have enough licenses to add the computer for monitoring, please [contact us](https://www.syskit.com/contact-us) to add additional licenses. Click **Next >** proceed.
 4. The **License Summary** step shows the number of computers that will be added and the remaining licenses. Click **Next >** to proceed.
 5. In the **Adding Computers** step, a computer status check will be performed for a list of selected computers. This functionality will provide you with more information about possible misconfigurations if the load finishes with warnings or errors.
    > **Please note!** Your computers will be added regardless of the listed warnings or errors!

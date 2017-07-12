@@ -33,7 +33,7 @@ To get help with any issues or if you have any questions for us about using SysK
 
 To order our products online or create a custom pack, click **Order Online**.
 
-This will take you to our [SysKit Monitor pricing page](https://www.syskit.com/products/monitor/pricing), where you can find out more on order options and how to purchase. For further information, visit [Sales FAQ](https://acceleratio.net/support/sales-faq/).
+This will take you to our [SysKit Monitor pricing page](https://www.syskit.com/products/monitor/pricing), where you can find out more on order options and how to purchase. For further information, visit [Sales FAQ](https://www.syskit.com/contact-us/sales-faq).
 
 ## Submit Feedback
 
@@ -65,7 +65,7 @@ In SysKit Monitor, the __Customer Experience Improvement Program__ is, by defaul
 
 When you exit the SysKit Monitor application, we gather the minimum amount of data about feature usage to see which SysKit Monitor features our customers use the most, so we can make them even better.
 
-Please note that the data about feature usage gathered in Customer Experience Improvement Program does not include the content of your reports. Find out more about our [privacy policy](https://acceleratio.net/privacy-policy/).
+Please note that the data about feature usage gathered in Customer Experience Improvement Program does not include the content of your reports. Find out more about our [privacy policy](https://www.syskit.com/privacy-policy/).
 
 ## Check for Updates
 

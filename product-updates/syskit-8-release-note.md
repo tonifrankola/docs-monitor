@@ -20,7 +20,7 @@ We’d also like to thank all of our customers for their continued patience. We�
 
 We’re always eager to hear your feedback and suggestions!
 
-[Click here to download the new release.](https://www.syskit.com/downloads/)
+[Click here to download the new release.](https://www.syskit.com/products/monitor/download)
 
 Product version: 8.0.0  
 Build number: 33871  
@@ -76,6 +76,6 @@ Release date: Thursday, September 15, 2016
 
 ### What is the SysKit Licensing model and how does it affect existing SysKit customers?
 
-+ SysKit is now available in three editions (__Standard, Professional,__ and __Enterprise__), and it can be bought in __license packs__. Choose the SysKit edition that’s right for you [here](https://www.syskit.com/products/monitor/pricing).
++ SysKit is now available in three editions (__Standard, Professional,__ and __Enterprise__), and it can be bought in __license packs__. Choose the SysKit edition that’s right for you [here](https://www.syskit.com/products/monitor/pricing/features-by-edition).
 + We are introducing a __new type of SysKit license: Subscription__. This will allow customers to have usage rights to all releases while their subscriptions are active. This license can be purchased monthly, and it is renewable.
 + Existing SysKit customers who have valid Software Assurance can upgrade to SysKit’s __full-featured Enterprise version__ at no cost.

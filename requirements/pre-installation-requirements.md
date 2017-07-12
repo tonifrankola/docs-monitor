@@ -69,4 +69,4 @@ To use SQL Server authentication instead of Windows authentication please do the
 ## Install SysKit Monitor
 
 If you have created a service account and prepared the SQL Server, you can proceed with the SysKit Monior [Installation Wizard](#internal/installation-configuration/install-wizard/install-monitor).  
-If you need help with the installation, please [contact us](https://www.syskit.com/contact).
+If you need help with the installation, please [contact us](https://www.syskit.com/contact-us).

@@ -53,10 +53,10 @@ No, a server restart is not needed.
 Go to the Administration tab and select the Add button from the upper ribbon. Next, select the servers from the domain and that’s it. The software will connect via the network directly to the servers. It’s as simple as 1-2-3!
 
 ### How is the software licensed?
-The software is licensed per monitored servers, meaning that all the servers you wish to monitor need to be licensed. For multiple servers, we offer volume discounts. Please [contact us](https://www.syskit.com/contact) for a customized quote.
+The software is licensed per monitored servers, meaning that all the servers you wish to monitor need to be licensed. For multiple servers, we offer volume discounts. Please [contact us](https://www.syskit.com/contact-us) for a customized quote.
 
 ### Do you support a web-based UI?
 Yes, SysKit Monitor comes as an IIS application as well, so you can access it through a web browser.
 
 ### Do you offer a free trial?
-Yes, we offer a [fully featured 30-day trial](https://www.syskit.com/downloads/). During those 30 days, you will receive all the support you need with the software. You can easily contact our [support team](https://www.syskit.com/contact).
+Yes, we offer a [fully featured 30-day trial](https://www.syskit.com/products/monitor/download). During those 30 days, you will receive all the support you need with the software. You can easily contact our [support team](https://www.syskit.com/contact-us).
