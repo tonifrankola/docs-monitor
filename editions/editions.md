@@ -35,7 +35,7 @@ In addition, you can view and browse through the available data from your web br
 
 The Enterprise edition includes all features from the Standard and the Professional editions.
 
-Click here to see a [feature comparison](https://www.syskit.com/pricing/features-by-edition/) of all the editions.
+Click here to see a [feature comparison](https://www.syskit.com/products/monitor/pricing) of all the editions.
 
 There are two types of SysKit Monitor licenses:
 
