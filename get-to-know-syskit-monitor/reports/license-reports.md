@@ -14,17 +14,17 @@ Currently available reports are:
 
 ### Application License Reports
 
-    License Compliance – shows a number of available licenses per application along with information about consumed and remaining licenses.
-    License Details – allows you to easily determine the number of application licenses that were consumed.
-    Suite License Compliance – shows you the number of available licenses per application suite along with information about consumed and remaining licenses.
-    Suite License Details – displays a list of users that consumed a particular license.
++ __License Compliance__ – shows a number of available licenses per application along with information about consumed and remaining licenses.
++ __License Details__ – allows you to easily determine the number of application licenses that were consumed.
++ __Suite License Compliance__ – shows you the number of available licenses per application suite along with information about consumed and remaining licenses.
++ __Suite License Details__ – displays a list of users that consumed a particular license.
 
 ### Client License Reports
 
-    Client License Compliance – track the number of licenses used per device or per user – monitor the number of used Remote Desktop CALs and Citrix licenses across the entire server farm.
-    Client License Details – displays a list of users that consumed a particular license.
++ __Client License Compliance__ – track the number of licenses used per device or per user – monitor the number of used Remote Desktop CALs and Citrix licenses across the entire server farm.
++ __Client License Details__ – displays a list of users that consumed a particular license.
 
 ### Office License Reports
 
-    Office License Compliance – this report detects Microsoft Office products on your computers and gives information about the usage of Microsoft Office apps.
-    Office License Details – displays a list of users that consumed a particular Micorosoft Office application.
++ __Office License Compliance__ – this report detects Microsoft Office products on your computers and gives information about the usage of Microsoft Office apps.
++ __Office License Details__ – displays a list of users that consumed a particular Micorosoft Office application.

@@ -21,17 +21,17 @@ Currently available reports are:
 
 ### Audit Reports
 
-    Logon Audit – This report will show you a complete logon history overview on all computers – track successful and failed logon events.
++ __Logon Audit__ – This report will show you a complete logon history overview on all computers – track successful and failed logon events.
 
 ### System Logs
 
-    Restart Log – This history report will show you a complete list of every time the Windows Servers have restarted or shutdown and the reason why, including the user account who initiated a restart or shutdown.
-    System Uptime – This report will show you how long a Microsoft Windows system has been powered on without a restart or if a reboot has been applied to the system recently.
++ __Restart Log__ – This history report will show you a complete list of every time the Windows Servers have restarted or shutdown and the reason why, including the user account who initiated a restart or shutdown.
++ __System Uptime__ – This report will show you how long a Microsoft Windows system has been powered on without a restart or if a reboot has been applied to the system recently.
 
 ### File System Audit Reports
 
-    File Access Audit Log – Shows file access history and actions performed on files,as well as the exact time.
-    File Access Audit – Summarizes the number of Read, Write, and Update actions per file and user.
++ __File Access Audit Log__ – Shows file access history and actions performed on files,as well as the exact time.
++ __File Access Audit__ – Summarizes the number of Read, Write, and Update actions per file and user.
 
 ### Blocked IP Addresses
 

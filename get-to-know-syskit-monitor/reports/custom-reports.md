@@ -8,10 +8,10 @@ The Custom Reports section offers many reports with customized fields and condit
 
 Predefined Custom reports are available:
 
-    Installed Updates – shows whether updates were installed on a selected server.
-    SysKit Permissions – shows which users have access to the SysKit application and what kind of permissions they were granted.
-    Idle Activities Today – shows which users were idle and for how long over one day.
-    Windows Services – shows all services that are running on your local and remote computers. This is a real-time report.
++ __Installed Updates__ – shows whether updates were installed on a selected server.
++ __SysKit Permissions__ – shows which users have access to the SysKit application and what kind of permissions they were granted.
++ __Idle Activities Today__ – shows which users were idle and for how long over one day.
++ __Windows Services__ – shows all services that are running on your local and remote computers. This is a real-time report.
 
 #### Custom Reports Ribbon
 

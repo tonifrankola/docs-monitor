@@ -22,26 +22,26 @@ The purpose of the Inventory Snapshots is to display the snapshots for all scans
 
 The reports within the __Hardware__ subcategory include:
 
-    Hard Drives – Shows disk space usage for every computer in your farm – identify computers low on space.
-    Network Adapters – View all network adapters on your system – easily understand where each computer is connected, and get a central overview of all network interface controllers (NICs) installed on your computers.
-    Processors – View detailed configuration of each computer – CPU, model, number of processors, and the amount of memory installed.
++ __Hard Drives__ – Shows disk space usage for every computer in your farm – identify computers low on space.
++ __Network Adapters__ – View all network adapters on your system – easily understand where each computer is connected, and get a central overview of all network interface controllers (NICs) installed on your computers.
++ __Processors__ – View detailed configuration of each computer – CPU, model, number of processors, and the amount of memory installed.
     Printers – View all printers in your server environment.
 
 ## Software
 
 The reports within the __Software__ subcategory include:
 
-    Programs – View a full list of installed programs along with information about install date and location, help location, version and publisher.
-    Available Updates – This report helps system administrators who want to see a full list of available updates along with information on whether an update has been downloaded or a reboot is required.
-    Installed Updates – This report helps system administrators who want to see a full list of installed programs along with information about the installation date and location, help location, version, and publisher.
-    Services – View all services that are running on your local and remote computers.
-    Certificates – View a list of the certificates in the personal store on each computer along with information about the validity period, friendly name, thumbprint, intended purposes, etc.
++ __Programs__ – View a full list of installed programs along with information about install date and location, help location, version and publisher.
++ __Available Updates__ – This report helps system administrators who want to see a full list of available updates along with information on whether an update has been downloaded or a reboot is required.
++ __Installed Updates__ – This report helps system administrators who want to see a full list of installed programs along with information about the installation date and location, help location, version, and publisher.
++ __Services__ – View all services that are running on your local and remote computers.
++ __Certificates__ – View a list of the certificates in the personal store on each computer along with information about the validity period, friendly name, thumbprint, intended purposes, etc.
 
 ## Local Users and Groups
 
 The __Local Users and Groups__ subcategory contains only one report at the moment:
 
-    Local Users and Groups – This report helps system administrators who want to see a list of all the members of the Local Administrators group for each computer.
++ __Local Users and Groups__ – This report helps system administrators who want to see a list of all the members of the Local Administrators group for each computer.
 
 The Inventory Reports include two filters: __Snapshots__ and __Computers__. Use the Snapshots filter to select a snapshot from a point in time and for the computer(s) specified in the __Computers__ filter. The Snapshots filter will have the __latest snapshot__ selected and it will be displayed in the reports.
 
