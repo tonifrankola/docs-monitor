@@ -82,4 +82,4 @@ Parameter **@TerminalServerIDs** is somewhat different as it should represent co
 4. Select names of target servers in **Values** and proceed to the next step.  
 5. Close the Custom Report Wizard by clicking the **Finish** button.
 
-See the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) article to learn how to download and import the predefined Custom Reports from Acceleratio’s repository.
+See the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) article to learn how to download and import the predefined Custom Reports from SysKit’s repository.

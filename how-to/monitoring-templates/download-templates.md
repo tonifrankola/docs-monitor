@@ -1,10 +1,10 @@
 ---
 title: Download Templates
-description: This article describes how to download and import the predefined Monitoring Templates from Acceleratio’s repository.
+description: This article describes how to download and import the predefined Monitoring Templates from SysKit’s repository.
 author: Andrea Budisa
 date: 21/6/2017
 ---
-This dialog enables you to download and import the [predefined Monitoring Templates](#internal/how-to/monitoring-templates/predefined-templates) from Acceleratio’s __repository__. There, you can find __three__ monitoring templates tied to a specific server role, such as __SharePoint, Citrix__ or __Hyper-V__. It is very important to read the template description on the right side.
+This dialog enables you to download and import the [predefined Monitoring Templates](#internal/how-to/monitoring-templates/predefined-templates) from SysKit’s __repository__. There, you can find __three__ monitoring templates tied to a specific server role, such as __SharePoint, Citrix__ or __Hyper-V__. It is very important to read the template description on the right side.
 
 If you select a monitoring template from the list, the following template information will be displayed:
 

@@ -33,7 +33,7 @@ Predefined Custom reports are available:
 
 ### Download Custom Reports
 
-This dialog enables you to download and import the __predefined Custom Reports__ from Acceleratio’s __repository__. There, you can find around __twenty__ custom reports created for various purposes and categorized by the data type they display. It is very important to read the report description on the right side.
+This dialog enables you to download and import the __predefined Custom Reports__ from SysKit’s __repository__. There, you can find around __twenty__ custom reports created for various purposes and categorized by the data type they display. It is very important to read the report description on the right side.
 
 If you select a report from the list, the following report information will be displayed:
 

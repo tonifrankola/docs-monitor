@@ -1,10 +1,10 @@
 ---
 title: Download Scripts
-description: This article describes how to download and import the available predefined PowerShell scripts from Acceleratio’s repository.
+description: This article describes how to download and import the available predefined PowerShell scripts from SysKit’s repository.
 author: Andrea Budisa
 date: 23/6/2017
 ---
-This dialog enables you to browse through and download the available __predefined PowerShell scripts__ from Acceleratio’s __repository__. There are around __fifty__ PowerShell scripts categorized by purpose.  
+This dialog enables you to browse through and download the available __predefined PowerShell scripts__ from SysKit’s __repository__. There are around __fifty__ PowerShell scripts categorized by purpose.  
 Most of the available PowerShell scripts can run on all types of servers while others are tied to a specific server role—such as __Domain Controller, IIS,__ or __Hyper-V__—or have to be executed on the local machine. It is very important to read the script description on the right side.
 
 If you select a script from the list, the following script information will be displayed:

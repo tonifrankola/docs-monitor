@@ -60,7 +60,7 @@ Ribbon provides a set of basic functions for managing the __created or imported_
 + __Edit__ – Edit the selected PowerShell report or management task.
 + __Delete__ – Delete the selected PowerShell report or management task.
 + __Edit Trigger__ – Edit the conditions that will trigger the PowerShell script.
-+ __Download Scripts__ – Download and import the predefined PowerShell scripts from Acceleratio’s repository.
++ __Download Scripts__ – Download and import the predefined PowerShell scripts from SysKit’s repository.
 + __Refresh__ – Refresh items in the left navigation panel, filters, and main view.
 + __Default Layout__ – Reset the current layout of the main view to the default layout.
 + __Run__ – Run the selected PowerShell script on target computers.

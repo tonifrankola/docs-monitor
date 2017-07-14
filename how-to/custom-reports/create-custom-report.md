@@ -35,4 +35,4 @@ For example, for date fields you can select Today, Yesterday, Next Week and more
 
 Download the definition of this custom report: [Idle-Activities-Today](https://www.syskit.com/wp-content/uploads/2015/11/Idle-Activities-Today.zip)
 
-See the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) article to learn how to download and import the predefined Custom Reports from Acceleratio’s repository.
+See the [Custom Reports](#internal/get-to-know-syskit-monitor/reports/custom-reports) article to learn how to download and import the predefined Custom Reports from SysKit’s repository.

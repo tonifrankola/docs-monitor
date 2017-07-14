@@ -5,7 +5,7 @@ author: Andrea Budisa
 date: 24/5/2017
 ---
 ### What happens during product activation?
-Product activation is a simple step that takes place during registration of your SysKit Monitor. The users need to enter their product activation code, which is authenticated against the Acceleratio Ltd. product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
+Product activation is a simple step that takes place during registration of your SysKit Monitor. The users need to enter their product activation code, which is authenticated against the SysKit Ltd. product activation server to activate the product. The entire activation process is quick and easy, and the majority of users will have to perform product activation only once.
 
 ### Who will be required to activate their products?
 Anyone who purchases the SysKit Monitor will be required to activate the product. If the product is ordered online from the SysKit Ltd. website, the product activation code will be sent via e-mail.
