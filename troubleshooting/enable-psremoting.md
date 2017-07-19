@@ -1,8 +1,8 @@
 ---
-Title: Enable-PSRemoting for untrusted domains to work with SysKit Monitor
-Author: Andrea Budisa
-Description: This article explains how to enable PSRemoting for untrusted domains to work with SysKit Monitor.
-Date: 29/06/17
+title: Enable-PSRemoting for untrusted domains to work with SysKit Monitor
+author: Andrea Budisa
+description: This article explains how to enable PSRemoting for untrusted domains to work with SysKit Monitor.
+date: 29/06/17
 ---
 WinRM (Windows Remote Management) PowerShell enables you to create a remote session to a computer. The functionality is similar to familiar remote administration tools such as SSH, but it utilizes industry-standard ports and protocols such as HTTP and SOAP.
 

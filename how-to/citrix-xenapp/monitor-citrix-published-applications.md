@@ -1,8 +1,8 @@
 ---
-Title: Monitor Citrix Published Applications
-Author: Andrea Budisa
-Description: This article explains how to adjust SysKit Monitor for the Citrix Published Applications monitoring.
-Date: 29/06/17
+title: Monitor Citrix Published Applications
+author: Andrea Budisa
+description: This article explains how to adjust SysKit Monitor for the Citrix Published Applications monitoring.
+date: 29/06/17
 ---
 This feature provides __Citrix XenApp 5__, __XenApp 6__, __XenApp 6.5__, __XenApp 7__ and __XenApp 7.5__ Published Applications monitoring. In order for the Published Applications to appear in the SysKit Monitor reports, it is necessary to enable this feature.
 

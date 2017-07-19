@@ -1,8 +1,8 @@
 ---
-Title: Exclude installation folder from antivirus scanning
-Author: Andrea Budisa
-Description: This article explains how to exclude installation folder from antivirus scanning on Windows Server 2008 or later.
-Date: 29/06/17
+title: Exclude installation folder from antivirus scanning
+author: Andrea Budisa
+description: This article explains how to exclude installation folder from antivirus scanning on Windows Server 2008 or later.
+date: 29/06/17
 ---
 This folder may have to be excluded from antivirus scanning when you use file-level antivirus software. If this folder is not excluded, you may see unexpected behavior. For example, you may receive “access denied” error messages.
 

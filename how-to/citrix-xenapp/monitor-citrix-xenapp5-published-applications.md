@@ -1,8 +1,8 @@
 ---
-Title: Configure SysKit Monitor for Citrix XenApp 5 Published Application monitoring
-Author: Andrea Budisa
-Description: This article describes how to configure your server to monitor Citrix Published Applications with the SysKit Monitor.
-Date: 29/06/17
+title: Configure SysKit Monitor for Citrix XenApp 5 Published Application monitoring
+author: Andrea Budisa
+description: This article describes how to configure your server to monitor Citrix Published Applications with the SysKit Monitor.
+date: 29/06/17
 ---
 In order for monitoring to be successful these are the steps you will have to perform on your __Citrix Management Server__.
 

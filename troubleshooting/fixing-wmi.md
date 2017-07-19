@@ -1,8 +1,8 @@
 ---
-Title: Fixing WMI to work with SysKit Monitor
-Author: Andrea Budisa
-Description: This article explains how to resolve WMI failure by rebuilding the WMI repository.
-Date: 29/06/17
+title: Fixing WMI to work with SysKit Monitor
+author: Andrea Budisa
+description: This article explains how to resolve WMI failure by rebuilding the WMI repository.
+date: 29/06/17
 ---
 Windows Management Instrumentation (WMI) is the infrastructure for management data and operations on Windows-based operating systems. WMI uses the Common Information Model (CIM) industry standard to represent systems, applications, networks, devices, and other managed components. Our application uses WMI to capture some of the data from remote servers such as total memory, disk size etc.
  

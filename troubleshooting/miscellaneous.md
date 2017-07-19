@@ -1,8 +1,8 @@
 ---
-Title: Miscellaneous
-Author: Andrea Budisa
-Description: This article contains various miscellaneous questions and answers related to SysKit Monitor.
-Date: 29/06/17
+title: Miscellaneous
+author: Andrea Budisa
+description: This article contains various miscellaneous questions and answers related to SysKit Monitor.
+date: 29/06/17
 ---
 ### Is it possible to remove a specific user from the reports?
 

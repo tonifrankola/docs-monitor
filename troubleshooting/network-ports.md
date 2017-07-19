@@ -1,8 +1,8 @@
 ---
-Title: Network Ports
-Author: Andrea Budisa
-Description: This articles outlines the network ports required for gathering the data.
-Date: 29/06/17
+title: Network Ports
+author: Andrea Budisa
+description: This articles outlines the network ports required for gathering the data.
+date: 29/06/17
 ---
 If you have a firewall between the server hosting the application and the servers that are being monitored, you will need the following info.
 

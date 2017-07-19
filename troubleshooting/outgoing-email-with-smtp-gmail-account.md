@@ -1,8 +1,8 @@
 ---
-Title: Configuring outgoing email with an smtp.gmail account
-Author: Andrea Budisa
-Description: This article explains how to configure outgoing email with an smtp.gmail account to use with SysKit Monitor.
-Date: 29/06/17
+title: Configuring outgoing email with an smtp.gmail account
+author: Andrea Budisa
+description: This article explains how to configure outgoing email with an smtp.gmail account to use with SysKit Monitor.
+date: 29/06/17
 ---
 Google blocks sign-in attempts from some apps or devices that do not follow modern security standards. Since these apps and devices are easier to break into, blocking them helps keep your account safe. Unfortunately, Google thinks SysKit Monitor is also unsafe.
 

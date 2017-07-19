@@ -1,8 +1,8 @@
 ---
-Title: Installation Issues
-Author: Andrea Budisa
-Description: This article outlines some of the common installation issues.
-Date: 29/06/17
+title: Installation Issues
+author: Andrea Budisa
+description: This article outlines some of the common installation issues.
+date: 29/06/17
 ---
 ## Error: SysKit Monitor Service won't start or times out while starting
 #### Problem:

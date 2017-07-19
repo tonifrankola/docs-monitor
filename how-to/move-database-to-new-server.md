@@ -1,8 +1,8 @@
 ---
-Title: Move database to a new server
-Author: Andrea Budisa
-Description: This article explains how to move the SysKit Monitor database to a new server.
-Date: 29/06/17
+title: Move database to a new server
+author: Andrea Budisa
+description: This article explains how to move the SysKit Monitor database to a new server.
+date: 29/06/17
 ---
 Please follow these steps to move a SQL Server database to another location:
 

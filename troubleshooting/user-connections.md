@@ -1,8 +1,8 @@
 ---
-Title: User Connections
-Author: Andrea Budisa
-Description: This article will help you to understand the user connections in SysKit Monitor.
-Date: 29/06/17
+title: User Connections
+author: Andrea Budisa
+description: This article will help you to understand the user connections in SysKit Monitor.
+date: 29/06/17
 ---
 ### When users connect through a Web interface on XenApp (presentation server), I get a strange client name, something like WI_s9wV-5sHAM7mCoWhF, but I want to display a real client name.
 

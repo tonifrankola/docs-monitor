@@ -1,8 +1,8 @@
 ---
-Title: User States
-Author: Andrea Budisa
-Description: This article explains how the SysKit Monitor reports on user states.
-Date: 29/06/17
+title: User States
+author: Andrea Budisa
+description: This article explains how the SysKit Monitor reports on user states.
+date: 29/06/17
 ---
 ### How long does a person have to be inactive on a computer before the idle time starts to accumulate?
 

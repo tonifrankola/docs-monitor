@@ -1,8 +1,8 @@
 ---
-Title: Configuring CredSSP for use with PowerShell in SysKit Monitor 
-Author: Andrea Budisa
-Description: This article explains how to enable WSManCredSSP for more advanced PowerShell scripts to work in SysKit Monitor.
-Date: 29/06/17
+title: Configuring CredSSP for use with PowerShell in SysKit Monitor 
+author: Andrea Budisa
+description: This article explains how to enable WSManCredSSP for more advanced PowerShell scripts to work in SysKit Monitor.
+date: 29/06/17
 ---
 Windows Remote Management (WinRM) supports the delegation of user credentials across multiple remote computers. The multi-hop support functionality can use Credential Security Service Provider (CredSSP) for authentication. CredSSP enables an application to delegate the user’s credentials from the client computer to the target server.
 

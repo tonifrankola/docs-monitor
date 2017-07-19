@@ -1,8 +1,8 @@
 ---
-Title: Manage SysKit Monitor Data Collector
-Author: Andrea Budisa
-Description: This article describes how to manage SysKit Monitor Data Collectors.
-Date: 29/06/17
+title: Manage SysKit Monitor Data Collector
+author: Andrea Budisa
+description: This article describes how to manage SysKit Monitor Data Collectors.
+date: 29/06/17
 ---
 > __Please note!__ If you have more than 100 servers, or geographically distributed servers, it is recommended that you use SysKit Monitor Data Collector. Please contact our support team, which will provide you with detailed instructions and a setup file.
  
