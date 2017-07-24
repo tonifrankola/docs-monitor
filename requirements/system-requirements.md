@@ -60,10 +60,10 @@ Proceed to: [User Permission Requirements](#internal/requirements/user-permissio
 
 SysKit Monitor supports monitoring of the technologies and platforms listed below.
 + __Remote Desktop Services__
-+ __Windows Server__ editions: Windows Server 2003 – 2016, all editions
-+ __SQL Server__ editions: SQL Server 2005 – 2016, all editions
++ __Windows Server__ editions: Windows Server 2008 – 2016, all editions
++ __SQL Server__ editions: SQL Server 2008 – 2016, all editions
 + __SharePoint__ editions: SharePoint 2007 – 2016, all editions
-+ __Microsoft Exchange Server__ editions: Exchange Server 2003 – 2016
++ __Microsoft Exchange Server__ editions: Exchange Server 2007 – 2016
 + __Remote Desktop Gateway (RD Gateway) Server__
 + Other __Windows Server roles__ like __File Server, AD, WSUS, Hyper-V__, etc.
 + __Citrix__ editions:
