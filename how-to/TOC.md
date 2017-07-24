@@ -57,6 +57,6 @@ private: true
 ## [Configure SysKit for Citrix XenApp 6.0/6.5 Published Application monitoring](monitor-citrix-xenapp6-published-applications.md)
 
 # [Performance Counters Management](performance-counters-management.md)
-# [Manage Data Collector](manage-data-collector.md)
+# [Manage SysKit Monitor Data Collector](manage-data-collector.md)
 # [Move database to new server](move-database-to-new-server.md)
 # [Exclude installation folder from antivirus scanning](exclude-installation-folder-from-antivirus-scanning.md)
