@@ -15,7 +15,7 @@ Database version: 8.0.0
 
 Release date: Thursday, October 6, 2016
 
-### Fixed
+### Bug Fixes
 
 + SysKit was not working properly while gathering published applications in Citrix XenDesktop 7.x environment.
 + Quick Start Guide panel, shown on the right upon starting SysKit, has been updated with new screenshots.
