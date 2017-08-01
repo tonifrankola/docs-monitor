@@ -5,13 +5,11 @@ author: Andrea Budisa
 date: 26/7/2017
 ---
 
-We are proud to present to you our newest and refreshed version of __SysKit Monitor__, which comes with a new name and logo! We’ve decided it was time for a change and that with moving to our new office space, we might do a bit more than just remodeling and address change. In the rebranding process, we went all in, by changing the company name, logo, and all the names of our products. 
+We are proud to present a new, refreshed version of __SysKit Monitor__, which comes with a new name and logo! We felt like a change and, with a move to new office space, we decided we might do a bit more than just remodeling and changing of our address. In the rebranding process, we’ve gone all out by changing the company name, logo, and names of all our products.
 
-Our company name has been changed from __Acceleratio__ to __SysKit__! To reflect this, we also changed our server monitoring tool __SysKit__ to __SysKit Monitor__.
-You can read more about the story behind in the [Rebranding Announcement]().
+Our company name has been changed from __Acceleratio__ to __SysKit__! We’ve also renamed our server monitoring tool, from __SysKit__ to __SysKit Monitor__. You can read the back story to these changes in the [Rebranding Announcement]() blog post.
 
-This release brings a couple of improvements and bug fixes.
-Now, go check out what SysKit Monitor has to offer by refreshing your favorite server monitoring tool. As always, feel free to contact us or send us any suggestions.
+This release brings a couple of improvements and bug fixes. Now, go check out what SysKit Monitor has to offer by refreshing your favorite server monitoring tool. As always, feel free to contact us or send us any suggestions.
 
 [Click here to download the new release.](https://www.syskit.com/products/monitor/download)
 
@@ -23,9 +21,9 @@ Release date: Friday, September 1, 2017
 
 ### Improvements
 
-+ __SysKit Monitor__ now has a new name, logo, and splash screen!
++ SysKit Monitor now has a new name, logo, and splash screen!
 + SysKit's repository has been updated with twelve new PowerShell scripts that are designed to simplify reporting and administration of the VMWare environment. You can download and try the available scripts through the SysKit Monitor.
-+ Optimized certain parts of the application that affect the overall speed.
++ Certain parts of the application that affect the overall speed have been optimized.
 
 ### Bug Fixes
 
