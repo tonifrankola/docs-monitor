@@ -17,7 +17,7 @@ Product version: 8.4.0
 Build number: 2119  
 Database version: 8.3.0
 
-Release date: Friday, September 1, 2017
+Release date: Sept 1, 2017
 
 ### Improvements
 
