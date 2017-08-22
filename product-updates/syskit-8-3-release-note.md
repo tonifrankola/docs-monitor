@@ -21,7 +21,7 @@ Product version: 8.3.0
 Build number: 2046  
 Database version: 8.3.0
 
-Release date: Wednesday, April 12, 2017
+Release date: Apr 12, 2017
 
 ### SysKit’s Features
 
