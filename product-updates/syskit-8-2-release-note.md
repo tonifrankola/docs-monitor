@@ -17,7 +17,7 @@ Product version: 8.2.0
 Build number: 1060  
 Database version: 8.2.0
 
-Release date: Tuesday, December 6, 2016
+Release date: Dec 6, 2016
 
 ### SysKit’s Features
 

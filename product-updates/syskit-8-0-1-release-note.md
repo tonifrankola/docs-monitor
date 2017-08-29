@@ -13,7 +13,7 @@ Product version: 8.0.1
 Build number: 34186  
 Database version: 8.0.0
 
-Release date: Thursday, October 6, 2016
+Release date: Oct 6, 2016
 
 ### Bug Fixes
 

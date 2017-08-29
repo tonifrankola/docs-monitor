@@ -13,7 +13,7 @@ Open the **Custom Report Wizard** by selecting Custom Reports in the left naviga
 2. In Step 2, enter the preferred SQL **SELECT** statement. SQL statement you enter will serve as base for your report and will give you the same result as SQL Server Management Studio would.  
 You can write a simple plain SQL statement using common keywords, with or without parameters. Parameters are words prefixed with special character ‘@‘ (ex. @param1, @param2) and will be used as filters which you can modify outside of the SQL editor in the same way as filters used in standard reports. If you use clean SQL statement, your SQL report will not have any applicable filters.
 
-   > **Please note!** If you are not familiar with SQL or with SysKit Monitor database schema, please [contact us](https://www.syskit.com/contact-us) and we will create an SQL report for your needs.
+   > **Please note!** If you are not familiar with SQL or with SysKit Monitor database schema, please [contact us](https://www.syskit.com/company/contact-us) and we will create an SQL report for your needs.
 
 3. In Step 3, depending on whether you have used the parameters in the previous step, you will be able to initialize them here. If you have used clean SQL statement, you can skip this step.
 

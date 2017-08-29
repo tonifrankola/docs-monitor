@@ -27,7 +27,7 @@ Product version: 8.0.0
 Build number: 33871  
 Database version: 8.0.0
 
-Release date: Thursday, September 15, 2016
+Release date: Sept 15, 2016
 
 ### SysKit’s Features
 
