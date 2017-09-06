@@ -33,7 +33,7 @@ To get help with any issues or if you have any questions for us about using SysK
 
 To order our products online or create a custom pack, click **Order Online**.
 
-This will take you to our [SysKit Monitor pricing page](https://www.syskit.com/products/monitor/pricing), where you can find out more on order options and how to purchase. For further information, visit [Sales FAQ](https://www.syskit.com/contact-us/sales-faq).
+This will take you to our [SysKit Monitor pricing page](https://www.syskit.com/products/monitor/pricing), where you can find out more on order options and how to purchase. For further information, visit [Sales FAQ](https://www.syskit.com/sales-faq).
 
 ## Submit Feedback
 

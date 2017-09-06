@@ -1,5 +1,5 @@
 ---
-title: We have just released SysKit 2016 R2 – 8.3.0
+title: SysKit 2016 R2 8.3.0 - Release Note
 description: This article describes all new features, improvements and bug fixes delivered in SysKit 2016 R2 – 8.3.0.
 author: Andrea Budisa
 date: 12/7/2017
@@ -21,7 +21,7 @@ Product version: 8.3.0
 Build number: 2046  
 Database version: 8.3.0
 
-Release date: Wednesday, April 12, 2017
+Release date: Apr 12, 2017
 
 ### SysKit’s Features
 

@@ -1,5 +1,5 @@
 ---
-title: We have just released SysKit 2016 R2 – 8.2.0
+title: SysKit 2016 R2 8.2.0 - Release Note
 description: This article describes all new features, improvements and bug fixes delivered in SysKit 2016 R2 – 8.2.0.
 author: Andrea Budisa
 date: 12/7/2017
@@ -17,7 +17,7 @@ Product version: 8.2.0
 Build number: 1060  
 Database version: 8.2.0
 
-Release date: Tuesday, December 6, 2016
+Release date: Dec 6, 2016
 
 ### SysKit’s Features
 

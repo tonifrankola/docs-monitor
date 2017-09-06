@@ -59,4 +59,4 @@ See the [SysKit Monitor Web App](#internal/get-to-know-syskit-monitor/syskit-mon
 
 ### Problems with Installation and Configuration
 
-Most problems are related to SQL Security and SysKit Monitor Service authentication against the Active Directory or Microsoft SQL Server. If you are experiencing problems with installation, please [contact us](https://www.syskit.com/contact-us). Our team will schedule a support call and help you install the SysKit Monitor remotely.
+Most problems are related to SQL Security and SysKit Monitor Service authentication against the Active Directory or Microsoft SQL Server. If you are experiencing problems with installation, please [contact us](https://www.syskit.com/company/contact-us). Our team will schedule a support call and help you install the SysKit Monitor remotely.

@@ -1,5 +1,5 @@
 ---
-title: We have just released SysKit 2016 R2 – 8.0.1
+title: SysKit 2016 R2 8.0.1 - Release Note
 description: This article describes all improvements and bug fixes delivered in SysKit 2016 R2 – 8.0.1.
 author: Andrea Budisa
 date: 12/7/2017
@@ -13,7 +13,7 @@ Product version: 8.0.1
 Build number: 34186  
 Database version: 8.0.0
 
-Release date: Thursday, October 6, 2016
+Release date: Oct 6, 2016
 
 ### Bug Fixes
 

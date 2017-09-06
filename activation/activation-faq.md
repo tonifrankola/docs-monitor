@@ -15,7 +15,7 @@ You must activate your product within 30 days of the trial period.
 If you do not activate your product by the end of the 30 day trial period, it will stop collecting all activities and data until you activate it.
 
 ### If I do not have a product activation code to activate my software, how can I get it?
-If you cannot find your product activation code, you should send in a support request to our [support team](https://www.syskit.com/contact-us).
+If you cannot find your product activation code, you should send in a support request to our [support team](https://www.syskit.com/company/contact-us).
 
 ### How can I activate my product?
 You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation code and press activate. You must have a connection to the Internet to activate your product.
@@ -36,7 +36,7 @@ No. Activation is a secure and anonymous one-time procedure. After activation is
 Product activation is a one-time procedure that is typically completed immediately after installation of the software. Activation typically takes 2-5 seconds to complete.
 
 ### When is product reactivation required?
-Product reactivation is required only under exceptional circumstances — if, for example, you upgrade or replace your computer, or if the activation process detects that the license has been tampered with. If you have migrated to a new server or reinstalled the existing server, you should [contact us](https://www.syskit.com/contact-us) to re-activate your license.
+Product reactivation is required only under exceptional circumstances — if, for example, you upgrade or replace your computer, or if the activation process detects that the license has been tampered with. If you have migrated to a new server or reinstalled the existing server, you should [contact us](https://www.syskit.com/company/contact-us) to re-activate your license.
 
 ### What if I have more than one server? Does the SysKit Monitor license allow me to use the software on multiple servers?
 It is allowed to activate the SysKit Monitor license on one server only. If you want to use the SysKit Monitor on multiple servers, you will need to purchase an additional license for every server.
