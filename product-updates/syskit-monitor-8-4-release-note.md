@@ -5,9 +5,9 @@ author: Andrea Budisa
 date: 26/7/2017
 ---
 
-We are proud to present a new, refreshed version of __SysKit Monitor__, which comes with a new name and logo! We felt like a change and, with a move to new office space, we decided we might do a bit more than just remodeling and changing of our address. In the rebranding process, we’ve gone all out by changing the company name, logo, and names of all our products.
+We are proud to present a new, refreshed version of __SysKit Monitor__, which comes with a new name and logo! We felt like a change and, with a move to new office space, we decided we might do a bit more than just remodeling and changing of our address. In the rebranding process, we’ve gone all out by changing the logo and names of all our products.
 
-Our company name has been changed from __Acceleratio__ to __SysKit__! We’ve also renamed our server monitoring tool, from __SysKit__ to __SysKit Monitor__. You can read the back story to these changes in the [Rebranding Announcement](https://www.syskit.com/blog/rebranding-announcement-syskit) blog post.
+We’ve renamed our server monitoring tool, from __SysKit__ to __SysKit Monitor__. You can read the back story to these changes in the [Rebranding Announcement](https://www.syskit.com/blog/rebranding-announcement-syskit) blog post.
 
 This release brings a couple of improvements and bug fixes. Now, go check out what SysKit Monitor has to offer by refreshing your favorite server monitoring tool. As always, feel free to contact us or send us any suggestions.
 
@@ -17,7 +17,7 @@ Product version: 8.4.0
 Build number: 2119  
 Database version: 8.3.0
 
-Release date: Sept 1, 2017
+Release date: Sept 6, 2017
 
 ### Improvements
 
