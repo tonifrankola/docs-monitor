@@ -12,15 +12,15 @@ In some cases, a PowerShell script within SysKit Monitor may need to access reso
 
 For example, when the data from SharePoint server are retrieved and a dedicated SQL Server instance needs to be accessed or when the data from Active Directory are retrieved and an underlying Domain Controller needs to be accessed.
 
-Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter. It must be executed on the __remote computer(s) where SysKit Monitor is executing the script__.
+Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter. It must be executed for the __remote server(s) where SysKit Monitor is executing the script__.
 
 __Enable-WSManCredSSP -Role Client –DelegateComputer *__
 
-These settings allow the client to delegate explicit credentials to a server when server authentication is achieved.
+These settings allow the client to delegate explicit credentials to a server when server authentication is achieved. Credentials can be delegated to: __one__, __multiple__ or __all__ servers in a domain.
 
-> __Please note!__ If you want to tighten the security risk, instead of an asterisk, you need to enter the FQDN of the application server where SysKit Monitor is installed.
+> __Please note!__ If you want to tighten the security risk, instead of an asterisk, it is recommended to enter the FQDN of the remote server(s) where SysKit Monitor is executing the script.
 
-Use the following cmdlet to enable CredSSP on the server by specifying Server in Role. It must be executed on the __application server where SysKit Monitor is installed__.
+Use the following cmdlet to enable CredSSP on the server by specifying Server in Role parametar. It must be executed on the __application server where SysKit Monitor is installed__.
 
 __Enable-WSManCredSSP -Role Server__
 
