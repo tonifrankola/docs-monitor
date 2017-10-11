@@ -12,6 +12,8 @@ In some cases, a PowerShell script within SysKit Monitor may need to access reso
 
 For example, when the data from SharePoint server are retrieved and a dedicated SQL Server instance needs to be accessed or when the data from Active Directory are retrieved and an underlying Domain Controller needs to be accessed.
 
+> __Please note!__ Both PowerShell commands have to be executed on the __application server where SysKit Monitor is installed__.
+
 Use the following cmdlet to enable CredSSP on the client by specifying Client in the Role parameter. It must be executed for the __remote server(s) where SysKit Monitor is executing the script__.
 
 __Enable-WSManCredSSP -Role Client –DelegateComputer *__
