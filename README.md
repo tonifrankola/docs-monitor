@@ -18,5 +18,5 @@ Additionally, it enables users to manage servers remotely with the help of Power
 * Keep track of and enforce critical license compliance requirements
 
 
-Monitor server performance, user activity, application usage, and system inventory - download free trial and give it a try!
+Monitor server performance, user activity, application usage, and system inventory - download free trial and give it a try!  
 https://www.syskit.com/
