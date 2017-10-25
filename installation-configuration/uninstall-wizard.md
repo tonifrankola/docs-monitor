@@ -2,7 +2,7 @@
 title: Uninstall Wizard
 description: This article describes how to uninstall SysKit Monitor.
 author: Andrea Budisa
-date: 23/5/207
+date: 23/5/2017
 ---
 We are sorry to hear you are leaving the SysKit family, but here are the instructions for uninstalling the SysKit Monitor. If you have any suggestions for how we can improve our product, or you wish to express your dissatisfaction or share your reason for uninstalling, please feel free to [contact us](https://www.syskit.com/company/contact-us).
 
