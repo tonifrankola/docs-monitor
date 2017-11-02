@@ -17,7 +17,7 @@ If the entered PS script requires the credentials to be delegated and you have e
 
    See the [Configuring CredSSP for use with PowerShell](#internal/troubleshooting/credssp-for-use-with-powershell) article to learn more on how to delegate the user’s credentials through SysKit Monitor.
 
-3. In Step 3, you will need to enter the PowerShell script you want to use to create reports or management tasks. Here you can also __import the script modules__ whose members can contain functions, variables, and more. To avoid incorrectly generated reports, the report script first needs to be tested on a selected computer. SysKit will run it against the computer that you specify.  
+3. In Step 3, you will need to enter the PowerShell script you want to use to create reports or management tasks. Here you can also __import the script modules__ whose members can contain functions, variables, and more. To avoid incorrectly generated reports, the report script first needs to be tested on a selected computer. SysKit Monitor will run it against the computer that you specify.  
 If you have selected the __management task__ script type in the first step, the management script will __only be validated for syntax errors__.  
 __All referenced modules will also be validated in both cases__ before the wizard returns and displays the results of the script and modules you have run.  
 After entering script, click Next> to see the results.
@@ -45,12 +45,12 @@ The following __schedule options__ are available:
    
    > __Tip!__ If the __Recurrence__ option is selected, you will be offered __several recurrence types__: one time, minutely, hourly, daily, weekly, monthly, and quarterly. Here, you can select the start date and time for the selected recurrence type.
 
-   > __Tip!__ If the __After another script__ option is selected, you will be offered a drop-down menu that contains all PowerShell scripts available in SysKit. The script for which you configure the trigger will be executed after the script selected from the drop-down.
+   > __Tip!__ If the __After another script__ option is selected, you will be offered a drop-down menu that contains all PowerShell scripts available in SysKit Monitor. The script for which you configure the trigger will be executed after the script selected from the drop-down.
 
-7. In Step 7, you can __enable__ and __configure conditions__ for alerts sent after the script finishes. SysKit will __detect and set__ the PowerShell script __column types__ and allow configuration of real-time alerts based on the __desired conditions__. A PowerShell script can return different column types. The ones that are __discoverable__ by SysKit are String, DateTime, UInt64, UInt32, Int64, Int32, Double, Boolean, and Decimal.
+7. In Step 7, you can __enable__ and __configure conditions__ for alerts sent after the script finishes. SysKit Monitor will __detect and set__ the PowerShell script __column types__ and allow configuration of real-time alerts based on the __desired conditions__. A PowerShell script can return different column types. The ones that are __discoverable__ by SysKit Monitor are String, DateTime, UInt64, UInt32, Int64, Int32, Double, Boolean, and Decimal.
 
 8. In Step 8, if the alert condition is met you can choose whether you want to be notified immediately. Alternatively, you can be notified if the state remains unchanged after the specified time interval has passed. Note: in both cases, you will receive an alert when the condition is met and you will also receive an email after everything returns to the normal state.  
-SysKit will generate a __.csv file__, which contains all the data __matching the applied conditions__ and include it in the email attachment of the alert.
+SysKit Monitor will generate a __.csv file__, which contains all the data __matching the applied conditions__ and include it in the email attachment of the alert.
 Here you can also select whether to send alerts to email addresses defined in the __Options__ dialog or you can specify different ones.
 
 All created and saved PowerShell scripts, depending on the script’s type, will be added to the Administration tab > PowerShell Scripts > Reports or Management Tasks group.

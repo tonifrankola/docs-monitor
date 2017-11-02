@@ -17,11 +17,11 @@ To install the SysKit Monitor, proceed with the following steps:
 3. Click __I Accept the terms of the license agreement__ to accept the license and then click __Next >__ to proceed.
 4. This step allows you to choose the program features that you want to install and change how a feature is installed. The default option is set to install the __SysKit desktop application__ only, but you can choose to install __both__ the __desktop__ and the __web__ feature. Before proceeding, please read the [System Requirements](#internal/requirements/system-requirements). Click __Next >__ to proceed.
 5. Select the destination folder for the application installation files, e.g., C:\Program Files\SysKit\Monitor. Click __Next >__ to proceed.
-6. You can change the folder name where the application shortcuts will be created and modify the availability option to install the SysKit for __All users__ or __Only for the current user__. Click __Next >__ to proceed.
+6. You can change the folder name where the application shortcuts will be created and modify the availability option to install the SysKit Monitor for __All users__ or __Only for the current user__. Click __Next >__ to proceed.
 7. The following step about the installation method will appear if you don’t have a Microsoft SQL Server instance on this particular machine.  
 The __Quick Install__ option is recommended in cases where you have from 10 to a maximum of 20 servers. It is the quickest option. We take care of the configuration.  
 If you have more than 20 servers and a dedicated SQL server, we advise you to select __Advanced Install__.
-You can choose to connect SysKit Monitor with a SQL Server instance you have or you can let the SysKit Setup install a new instance of __SQL Server Express 2012 LocalDB__ (free of charge).
+You can choose to connect SysKit Monitor with a SQL Server instance you have or you can let the SysKit Monitor Setup install a new instance of __SQL Server Express 2012 LocalDB__ (free of charge).
 8. The installation wizard will unpack your files and you will be able to run the application from: __Start > All Programs > SysKit Monitor__.
 
 
@@ -29,4 +29,4 @@ Once the installation is completed, the Configuration Wizard will start. If the 
 
 > __Please note!__ The SysKit Monitor web application can be installed on the same server as the desktop application or on a separate server. If you choose to install the web application separately, please read [this article](#internal/installation-configuration/configuration-wizard/configure-monitor).
 
-Proceed to: [Configuration Wizard](#internal/installation-configuration/configuration-wizard/configure-monitor).
+Proceed to: [Configuration Wizard](#internal/installation-configuration/configuration-wizard/configure-monitor). 
