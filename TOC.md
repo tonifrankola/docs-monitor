@@ -136,6 +136,7 @@ In this section you will find many useful "How To" articles for best results and
 
 ## [Product Updates](product-updates)
 We are continuously making SysKit Monitor better. See the latest product release info and explore the current and upcoming enhancements.
+### [SysKit Monitor 9 – The monster has awoken!](syskit-monitor-9-release-note.md)
 ### [SysKit Monitor – 8.4.0](syskit-monitor-8-4-release-note.md)
 ### [SysKit 2016 R2 – 8.3.0](syskit-8-3-release-note.md)
 ### [SysKit 2016 R2 – 8.2.0](syskit-8-2-release-note.md)
