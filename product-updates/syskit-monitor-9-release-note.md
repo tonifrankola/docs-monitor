@@ -11,7 +11,7 @@ Here at SysKit, we are always striving to support the latest technology and solu
 
 Thanks to our hardworking SysKit team, you can now monitor __Windows Server 2019__ VMs, __Remote Desktop Web Client__ sessions, __Citrix Virtual Apps and Desktops__, and much more! Awesome, isn’t it?
 
-You can read more about the latest innovations and how SysKit Monitor 9 handles them [in our blog post](https://www.syskit.com/).
+You can read more about the latest innovations and how SysKit Monitor 9 handles them [in our blog post](https://blog.syskit.com/syskit-monitor-9:-keeping-up-with-the-latest-technology).
 
 We’ll highlight the features and some of the key improvements. To dig out more details, read this release note.
 
@@ -53,4 +53,4 @@ Release date: Sept 27, 2018
 + __Data Collectors__ were sometimes displayed as ‘Offline’ in both the Manage Data Collectors dialog and the global warning bar, if the data collection process was taking too long.
 
 
-Now, check out what SysKit Monitor 9 has to offer by updating your favorite server monitoring tool. As always, feel free to contact us or send us any suggestions.
+Now, check out what __SysKit Monitor 9__ has to offer by updating your favorite server monitoring tool. As always, feel free to contact us or send us any suggestions.
