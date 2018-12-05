@@ -15,7 +15,7 @@ You can read more about the latest innovations and how SysKit Monitor 9 handles 
 
 We’ll highlight the features and some of the key improvements. To dig out more details, read this release note.
 
-[Click here to download the new release.](https://www.syskit.com/products/monitor/download) DOwnload link
+[Click here to download the new release.](https://www.syskit.com/products/monitor/download)
 
 Product version: 9.0.0   
 Build number: 2159   
