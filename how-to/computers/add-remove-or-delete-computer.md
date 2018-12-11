@@ -4,6 +4,7 @@ description: This article explains how to add, remove or delete one or more comp
 author: Andrea Budisa
 date: 30/6/2017
 ---
+
 If you want to **remove** one or more computers from monitoring, please follow these steps:
 
 1. Navigate to **Administration – Computers** category.

@@ -3,6 +3,17 @@ title: Table of Contents
 private: true
 ---
 
+# Support
+
+## [Product Updates](product-updates)
+We are continuously making SysKit Monitor better. See the latest product release info and explore the current and upcoming enhancements.
+### [SysKit Monitor 9 – The monster has awoken!](syskit-monitor-9-release-note.md)
+### [SysKit Monitor – 8.4.0](syskit-monitor-8-4-release-note.md)
+### [SysKit 2016 R2 – 8.3.0](syskit-8-3-release-note.md)
+### [SysKit 2016 R2 – 8.2.0](syskit-8-2-release-note.md)
+### [SysKit 2016 R2 – 8.0.1](syskit-8-0-1-release-note.md)
+### [SysKit 2016 R2 – Monitor and script all the things!](syskit-8-release-note.md)
+
 # Getting started
 
 ## [Requirements](requirements)
@@ -104,6 +115,7 @@ In this section you will find many useful "How To" articles for best results and
 #### [Manage Security Permissions](manage-security-permissions.md)
 ### [Computers](computers)
 #### [Add/Remove or Delete Computer from Monitoring](add-remove-or-delete-computer.md)
+#### [Add Citrix Servers to Monitoring](add-citrix-servers.md)
 ### [Monitoring Templates](monitoring-templates)
 #### [Predefined Monitoring Templates](predefined-templates.md)
 #### [Template Wizard](template-wizard.md)
@@ -131,17 +143,6 @@ In this section you will find many useful "How To" articles for best results and
 ### [Manage SysKit Monitor Data Collector](manage-data-collector.md)
 ### [Move database to new server](move-database-to-new-server.md)
 ### [Exclude installation folder from antivirus scanning](exclude-installation-folder-from-antivirus-scanning.md)
-
-# Support
-
-## [Product Updates](product-updates)
-We are continuously making SysKit Monitor better. See the latest product release info and explore the current and upcoming enhancements.
-### [SysKit Monitor 9 – The monster has awoken!](syskit-monitor-9-release-note.md)
-### [SysKit Monitor – 8.4.0](syskit-monitor-8-4-release-note.md)
-### [SysKit 2016 R2 – 8.3.0](syskit-8-3-release-note.md)
-### [SysKit 2016 R2 – 8.2.0](syskit-8-2-release-note.md)
-### [SysKit 2016 R2 – 8.0.1](syskit-8-0-1-release-note.md)
-### [SysKit 2016 R2 – Monitor and script all the things!](syskit-8-release-note.md)
 
 ## [FAQ](faq)
 These are some of the most common questions and answers about SysKit Monitor. If you cannot find the answer to your problem, please contact us.
