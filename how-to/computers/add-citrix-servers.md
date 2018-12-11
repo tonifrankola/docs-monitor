@@ -5,7 +5,7 @@ author: Andrea Budisa
 date: 30/6/2017
 ---
 
-If you have a __Citrix 7.x environment__ and you plan to __monitor user sessions and application usage__, there are just a few easy steps that you need to follow to get started.
+If you have a __Citrix 7.x environment__ and you plan to __monitor user sessions and application usage__, there are just a few easy steps that you need to follow to get started. You need to add both __Delivery Controller servers__ and __Virtual Delivery Agent servers__ to the monitoring.
 
 1. To __add Citrix servers__ click __Add__ in the Administration ribbon and then select the __Add Computers__ option from the dropdown menu.
 
