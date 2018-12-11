@@ -5,7 +5,7 @@ author: Andrea Budisa
 date: 30/6/2017
 ---
 
-If you have a __Citrix 7.x environment__ and you plan to __monitor user sessions and application usage__, there are just a few easy steps that you need to follow to get started. You need to add both __Delivery Controller servers__ and __Virtual Delivery Agent servers__ to the monitoring.
+If you have a __Citrix 7.x environment__ and you plan to __monitor user sessions and application usage__, there are just a few easy steps that you need to follow to get started. You need to add both __Delivery Controller servers__ and __Virtual Delivery Agent servers__ to monitoring.
 
 1. To __add Citrix servers__ click __Add__ in the Administration ribbon and then select the __Add Computers__ option from the dropdown menu.
 
@@ -13,7 +13,7 @@ If you have a __Citrix 7.x environment__ and you plan to __monitor user sessions
 
 3. A list of computers from the __Active Directory__ will be displayed.
    
-      > __Please note!__ If you have __Citrix 7.x environment__, you need to add both __Delivery Controller servers__ and __Virtual Delivery Agent servers__ to the monitoring. If you only add the Virtual Delivery Agent servers from your Citrix infrastructure, SysKit Monitor will be __unable to collect data and the reports will be empty__.
+      > __Please note!__ If you have __Citrix 7.x environment__, you need to add both __Delivery Controller servers__ and __Virtual Delivery Agent servers__ to monitoring. If you only add the Virtual Delivery Agent servers from your Citrix infrastructure, SysKit Monitor will be __unable to collect data and the reports will be empty__.
 
     This wizard screen also shows the number of remaining monitoring licenses. You must have enough licenses to add the computer for monitoring, please please [contact us](https://www.syskit.com/company/contact-us) to add additional licenses. Click __Next >__ proceed. 
     
