@@ -23,3 +23,6 @@ If you have a __Citrix 7.x environment__ and you plan to __monitor user sessions
       > __Please note!__ Your computers will be added regardless of the listed warnings or errors!
 
       The __Status__ column will contain a link to our help page if warnings or errors occur. If you click on the link, you will be guided through the process on how to resolve the Offline and Unauthorized computer states. When the load is finished, you will have an option to save the warnings or errors that occurred to a log file in a .pdf or excel format. Click __Close__ to exit the wizard. Afterward, a list of added computers will appear.
+
+
+Read more on how to [Configure SysKit Monitor for Citrix XenApp 7.x Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp7-published-applications).   

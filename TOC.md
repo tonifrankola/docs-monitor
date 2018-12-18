@@ -139,6 +139,7 @@ In this section you will find many useful "How To" articles for best results and
 #### [Monitor Citrix Published Applications](monitor-citrix-published-applications.md)
 #### [Configure SysKit for Citrix XenApp 5 Published Application monitoring](monitor-citrix-xenapp5-published-applications.md)
 #### [Configure SysKit for Citrix XenApp 6.0/6.5 Published Application monitoring](monitor-citrix-xenapp6-published-applications.md)
+#### [Configure SysKit for Citrix XenApp 7.x Published Application monitoring](monitor-citrix-xenapp7-published-applications.md)
 ### [Performance Counters Management](performance-counters-management.md)
 ### [Manage SysKit Monitor Data Collector](manage-data-collector.md)
 ### [Move database to new server](move-database-to-new-server.md)

@@ -18,4 +18,5 @@ This feature provides __Citrix XenApp 5__, __XenApp 6__, __XenApp 6.5__, __XenAp
 1. It is not possible to detect different instances of the same Published Application for one specific user on the specific computer.
 
 See [Configure SysKit Monitor for Citrix XenApp 5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp5-published-applications) article to learn more.  
-See [Configure SysKit Monitor for Citrix XenApp 6.0/6.5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp6-published-applications) article to learn more.
+See [Configure SysKit Monitor for Citrix XenApp 6.0/6.5 Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp6-published-applications) article to learn more.  
+See [Configure SysKit Monitor for Citrix XenApp 7.x Published Application monitoring](#internal/how-to/citrix-xenapp/monitor-citrix-xenapp7-published-applications) article to learn more.
