@@ -30,5 +30,5 @@ In case you notice that IP addresses are not being reported in the SysKit Monito
 The server configuration is finished and now you should be able to use the Block Malicious IP Addresses feature within the SysKit Monitor.
 
 See [Event Log System Job](configure-block-malicious-ip-addresses-feature.md#internal/get-to-know-syskit-monitor/backstage-screen/configuration/options#extract-event-log) to learn more.  
-See [Configure Audit Logon Events](configure-block-malicious-ip-addresses-feature.md#internal/how-to/audit-events/configure-audit-logon-events) to learn more.
+See[ Configure Audit Logon Events](https://syskit.gitbook.io/monitor/how-to/audit-events/configure-audit-logon-events) to learn more.
 
