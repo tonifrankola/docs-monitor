@@ -1,7 +1,7 @@
 # Table of contents
 
 * [SysKit Monitor](README.md)
-* [how-to](how-to/README.md)
+* [How To](how-to/README.md)
   * [performance-counters-management](how-to/performance-counters-management.md)
   * [audit-events](how-to/audit-events/README.md)
     * [index](how-to/audit-events/index.md)
