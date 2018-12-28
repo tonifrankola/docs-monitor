@@ -34,7 +34,7 @@ Predefined Custom reports are available:
 * **Date Range** – change the short term date range for the created report.
 * **Options** – configure options for the Report and Dashboard data, Alerts, Export and System Jobs.
 
-## Download Custom Reports
+### Download Custom Reports
 
 This dialog enables you to download and import the **predefined Custom Reports** from SysKit’s **repository**. There, you can find around **twenty** custom reports created for various purposes and categorized by the data type they display. It is very important to read the report description on the right side.
 
